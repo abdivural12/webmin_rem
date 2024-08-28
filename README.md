@@ -1,5 +1,7 @@
 # Dashboard de Webmining
-
+<p align="center">
+    <img src="dh" alt="airbn" width="180" height="180">
+</p>
 ## Description
 
 Cette application Streamlit a été développée pour visualiser les résultats de l'analyse des données collectées sur le site Airbnb. Elle permet de réaliser différentes analyses, y compris l'ANOVA, le clustering K-means, ainsi que la comparaison de modèles de régression pour prédire les prix des propriétés.
