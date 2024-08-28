@@ -20,3 +20,5 @@ L'application offre une interface utilisateur interactive pour explorer les donn
 
    ```bash
    git clone https://github.com/abdivural12/webmin_rem.git
+## Le link de dashboard
+https://webminrem-crnvvrh8sxnnfnkcqmp9wa.streamlit.app/
