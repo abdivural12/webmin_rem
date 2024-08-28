@@ -1,0 +1,503 @@
+region,price,cluster
+A-9360 Friesach,744.0,0
+Aartselaar,1618.0,4
+Aci Castello,3608.0,1
+Ahorn,1017.0,0
+Aich,1291.0,0
+Aiseau-Presles,856.0,0
+Aix-la-Chapelle,1566.0,4
+Aix-les-Bains,1976.0,4
+Alba,797.0,0
+Albertville,1613.0,4
+Albori,2240.0,2
+Albufeira,6587.0,3
+Albuñol,1395.0,4
+Aldeia do Meco,1395.0,4
+Alegrete,1211.0,0
+Algeciras,1643.0,4
+Alpbach,1410.0,4
+Altenberg,851.0,0
+Altlandsberg,980.0,0
+Ampognano,1256.0,0
+Annemasse,1318.0,0
+Ans,1438.0,4
+Ansfelden,1176.0,0
+Anthofrotte,992.0,0
+Anvers,1635.1818181818182,4
+Anzère,1770.0,4
+Arcos de Valdevez,3276.0,1
+Arezzo,1320.0,0
+Armação de Pêra,5406.0,3
+Arraiolos,4743.0,1
+Aspach,1386.0,4
+Asse,1215.0,0
+Auderghem,2824.0,2
+Avis,2765.0,2
+Aywaille,891.0,0
+Azuqueca de Henares,1166.0,0
+Bad Hersfeld,1395.0,4
+Bad Liebenzell,1208.0,0
+Bad Mitterndorf,1612.0,4
+Bad Oldesloe,1923.0,4
+Bad Salzdetfurth,1063.0,0
+Bad Vöslau,1030.0,0
+Bad Wildungen,375.0,0
+Bad Zell,951.0,0
+Baden,1931.0,4
+Baden bei Wien,1607.0,4
+Bagno a Ripoli,1310.0,0
+Balingen,1113.0,0
+Barberino Tavarnelle,4480.0,1
+Barcelone,2907.0,2
+Bari,2013.5,4
+Barum,1135.0,0
+Bassenheim,617.0,0
+Benalmádena,2432.0,2
+Berg bei Rohrbach,2356.0,2
+Berlaar,1387.0,4
+Berne,2650.0,2
+Biel,1776.3333333333333,4
+Billens-Hennens,1217.0,0
+Blatten bei Naters,1438.0,4
+Blevio,3869.0,1
+Bologne,2522.0,2
+Bommes,2727.0,2
+Bonfol,1438.0,4
+Bonn,922.0,0
+Bonndorf im Schwarzwald,1095.0,0
+Boppard,1163.0,0
+Bormujos,1459.0,4
+Braga,1556.0,4
+Braives,1274.0,0
+Bremgarten,1571.0,4
+Brides-les-Bains,2137.0,4
+Bruxelles,1390.0,4
+Burgthann,2728.0,2
+Bussigny,2096.0,4
+Bâle,2643.0,2
+Bühl,1302.0,0
+Bühler,1155.0,0
+Calldetenes,2065.0,4
+Caltrano,1119.0,0
+Carcavelos,1618.0,4
+Carmagnola,777.0,0
+Cascais,2635.0,2
+Castelnuovo Berardenga,3024.0,2
+Castro Mirim,1758.0,4
+Catane,1303.0,0
+Cava D'aliga,2696.0,2
+Cavi-casalone,3048.0,2
+Caviano,1366.0,0
+Celorico de Basto,1325.0,0
+Cerfontaine,1091.0,0
+Cesate,1377.0,0
+Charly-sur-Marne,1845.0,4
+Chemnitz,981.0,0
+Cherbourg-Octeville,1212.0,0
+Churwalden,1954.0,4
+Châtillon-sur-Cluses,3086.0,2
+Ciggiano,1054.0,0
+Cisternino,2635.0,2
+Combloux,1263.0,0
+Comines-Warneton,699.0,0
+Contignano,3722.0,1
+Cormondrèche,1086.0,0
+Cortona (AR),2646.0,2
+Courcelles,868.0,0
+Courroux,1897.0,4
+Cressier,1486.0,4
+Crémines,1171.0,0
+Davos Platz,1729.5,4
+Deißlingen,1139.0,0
+Dieppe,1946.0,4
+Dietersdorf,911.0,0
+Dietwil,2309.0,2
+Dinant,2222.5,2
+Donzdorf,984.0,0
+Dozza,1364.0,0
+Dunkerque,2092.0,4
+Durbuy,880.0,0
+Dílar,1149.0,0
+Eichberg bei Hartmannsdorf,1585.0,4
+Eisenach,902.0,0
+Elsene,1535.0,4
+Engelskirchen,1269.0,0
+Entraigues-sur-la-Sorgue,1855.0,4
+Erfurt,1362.0,0
+Ericeira,3367.0,1
+Ermatingen,1958.0,4
+Escholzmatt,1463.0,4
+Esneux,1370.0,0
+Essen,1428.5,4
+Estavayer,1327.0,0
+Estepona,3021.0,2
+Estoril,3090.4,2
+Estreito da Calheta,2648.0,2
+Etterbeek,1554.75,4
+Faimes,2083.0,4
+Falkenstein,495.0,0
+Fay,1974.0,4
+Feldbach,1476.0,4
+Felsberg,1806.0,4
+Ferenbalm,1747.0,4
+Figline Valdarno,1584.0,4
+Filzbach,1235.0,0
+Finkenberg,1240.0,0
+Fischenthal,1969.0,4
+Flaach,2086.0,4
+Flims,1880.0,4
+Florence,2641.6,2
+Forio,3888.0,1
+Fosdinovo,1289.0,0
+Francavilla Fontana,5805.0,3
+Freiburg im Breisgau,1163.0,0
+Freising,1152.0,0
+Friedrichskoog,1064.0,0
+Frolois,1116.0,0
+Funchal,3943.0,1
+Gamlitz,1575.0,4
+Gand,1477.75,4
+Gaula,4383.333333333333,1
+Geldern,1482.0,4
+Gerano,1233.0,0
+Gieleroth,1054.0,0
+Glarus Süd,1112.0,0
+Gleisdorf,713.0,0
+Gmunden,2082.0,4
+Goudargues,1867.0,4
+Graven,1550.0,4
+Graz,1205.4285714285713,0
+Grenade,1398.75,4
+Grengiols,1344.0,0
+Grenoble,1051.6666666666667,0
+Grez-Doiceau,1204.0,0
+Gruyères,1248.0,0
+Gryon,995.0,0
+Grünenbach,1028.0,0
+Gschwend,1730.0,4
+Gualchos,1240.0,0
+Guanzate,780.0,0
+Göttingen,1131.0,0
+Güstrow,930.0,0
+Halberstadt,744.0,0
+Hanovre,869.0,0
+Hastière,1581.0,4
+Hausen,1541.0,4
+Hautzendorf,1215.0,0
+Hauzenberg,720.0,0
+Heidelberg,1575.0,4
+Hellenthal,1237.0,0
+Hennef (Sieg),1411.0,4
+Herdern,1712.0,4
+Herve,1395.0,4
+Himmelpforten,950.0,0
+Hooglede,1559.0,4
+Hundeshagen,1364.0,0
+Idron,843.0,0
+Imst,2062.0,4
+Incourt,1237.5,0
+Ingelheim am Rhein,1664.0,4
+Innsbruck-Land,2926.0,2
+Intragna,1216.5,0
+Issum,987.0,0
+Ixelles,1706.0,4
+Jaukenberg,1091.0,0
+Jette,2356.0,2
+Joachimsthal,1283.0,0
+Kaisigen,3608.0,1
+Kamenz,1037.0,0
+Kapellen,1321.0,0
+Kaprun,1814.0,4
+Kell am See,1016.0,0
+Kempen,1259.0,0
+Kevelaer,760.0,0
+Kirchzarten,1535.0,4
+Kirschnaumen,1008.0,0
+Klagenfurt am Wörthersee,1502.5,4
+Klettendorf,614.0,0
+Klosterneuburg,1283.0,0
+Koppigen,1078.0,0
+Korschenbroich,922.0,0
+Kraainem,1645.0,4
+Krefeld,1283.0,0
+Krems an der Donau,1523.5,4
+Kreuztal,1150.0,0
+Köflach,1860.0,4
+La Chapelle-Villars,1072.0,0
+La Garde-Adhémar,878.0,0
+La Hulpe,698.0,0
+La Louvière,1046.5,0
+La Sagne,2401.0,2
+Laax,1427.5,4
+Lagos,5535.0,3
+Langenstein,1209.0,0
+Langenthal,1881.0,4
+Lanjarón,1736.0,4
+Lasne,1845.6666666666667,4
+Lautenbach-Zell,2480.0,2
+Le Mans,1189.0,0
+Lens,2182.0,2
+Leonding,1700.0,4
+Leontica,1533.0,4
+Les Bordes,1303.0,0
+Les Menuires,846.0,0
+Leukerbad,2567.0,2
+Leytron,1517.0,4
+León,1130.0,0
+Lieboch,1023.0,0
+Lingenau,1240.0,0
+Linz,1528.5,4
+Lisboa,2767.7727272727275,2
+Lisbonne,2604.0,2
+Liège,1024.1,0
+Lorch,1110.0,0
+Louvain,1961.0,4
+Luc-sur-Mer,1959.0,4
+Lucques,2480.0,2
+Lugano,1429.0,4
+Lutry,2137.0,4
+Maaseik,977.0,0
+Madrid,2133.409090909091,4
+Maggia,1292.0,0
+Malaga,3341.0,1
+Mannebach,2163.0,2
+Manosque,1483.0,4
+Mantova,3038.0,2
+Marais-Vernier,4986.0,3
+Marche-en-Famenne,1085.0,0
+Marciaso,2678.0,2
+Marly,1785.0,4
+Mascali,6200.0,3
+Matosinhos,2552.0,2
+Mauerkirchen,791.0,0
+Mechelen,1898.0,4
+Mechernich,1298.0,0
+Mehlmeisel,777.0,0
+Meiningen,911.0,0
+Melbeck,893.0,0
+Menziken,1492.0,4
+Mercato Saraceno,1116.0,0
+Merelbeke,1569.0,4
+Milan,1881.7272727272727,4
+Miranda do Douro,791.0,0
+Modica,2569.0,2
+Momignies,1845.0,4
+Mons,1268.5,0
+Montemassi,2170.0,2
+Monterotondo,1200.0,0
+Montfaucon,839.0,0
+Montigny-le-Tilleul,1364.0,0
+Montvalezan,962.0,0
+Morbach,1067.0,0
+Morgins,1290.0,0
+Mosen,1780.0,4
+Moutiers,1242.0,0
+Moutiers-Sous-Chantemerle,1770.0,4
+Movelier,3319.0,1
+Munich,1476.75,4
+Mönichkirchen,546.0,0
+Mülheim an der Ruhr,1154.0,0
+Münchhausen,1194.0,0
+Nalbach,1156.0,0
+Namur,987.0,0
+Nancy,1036.0,0
+Naples,1953.0,4
+Nerja,3472.0,1
+Netphen,1076.0,0
+Neumagen-Dhron,1116.0,0
+Neunkirchen,2418.0,2
+Nossen,860.0,0
+Nîmes,1264.0,0
+O Barco,2730.0,2
+Oberglatt,2655.0,2
+Oberiberg,2561.0,2
+Oberkrimml,2158.0,2
+Obermichelbach,1209.0,0
+Obernzell,1535.0,4
+Oberstenfeld,1296.0,0
+Oberzeiring,1691.0,4
+Odeceixe,3618.0,1
+Offenburg,1108.0,0
+Olhão,3720.0,1
+Olne,2643.0,2
+Olsberg,1775.0,4
+Oostende,2893.0,2
+Orciatico,1717.0,4
+Orelle,1804.0,4
+Ormont-Dessus,2276.0,2
+Ostbevern,1085.0,0
+Osterburken,1612.0,4
+Ottmarsheim,1515.0,4
+Paderborn,977.0,0
+Palma de Majorque,3333.0,1
+Parchal,3238.0,1
+Parede,3478.0,1
+Paris,2396.5,2
+Parrana San Martino,2363.0,2
+Passo del Tonale,1924.0,4
+Pedrógão Grande,2604.0,2
+Penela,2257.0,2
+Peniche,5408.0,3
+Penking,961.0,0
+Pianillo,2517.0,2
+Piegaro,2885.0,2
+Pierres,558.0,0
+Pietra Ligure,1894.0,4
+Pieve Vergonte,1296.0,0
+Piumazzo,893.0,0
+Plasencia,1184.0,0
+Plesching,1500.0,4
+Ponzana,474.0,0
+Pornic,2342.0,2
+Porto,2498.75,2
+Porto de Mós,2731.0,2
+Profondeville,1614.0,4
+Prévessin-Moëns,2362.0,2
+Puchen,1860.0,4
+Puy-Saint-Vincent,651.0,0
+Pörtschach am Wörthersee,1860.0,4
+Quartu Sant'Elena,4356.0,1
+Rai,1025.0,0
+Ramela,959.3333333333334,0
+Rastede,997.0,0
+Rauchwart im Burgenland,989.0,0
+Renens,2134.0,4
+Rheinfelden,1658.0,4
+Riedholz,1438.0,4
+Rieding,1023.0,0
+Riol,1085.0,0
+Roche-d'Or,1423.0,4
+Roetgen,1186.0,0
+Rognaix,1488.0,4
+Rome,2005.3333333333333,4
+Romorantin-Lanthenay,2659.0,2
+Roskow,1290.0,0
+Rottweil,1302.0,0
+Runkel,1387.0,4
+Saarbrücken,930.0,0
+Saas im Prättigau,1340.0,0
+Sagres,1801.0,4
+Saint-Ciers-sur-Gironde,1488.0,4
+Saint-Ghislain,1592.0,4
+Saint-Jean-de-Maurienne,1121.0,0
+Saint-Jeoire,1488.0,4
+Saint-Raphaël,3825.0,1
+Saint-Zacharie,2320.0,2
+Saint-Étienne-de-Tinée,1265.0,0
+Sainte-Radegonde,1042.0,0
+Sallanches,2441.0,2
+San Prospero,4216.0,1
+Sankt Englmar,1411.0,4
+Sankt Gallen,1568.0,4
+Sankt Ruprecht an der Raab,629.0,0
+Sankt Valentin,1077.0,0
+Sant'Antioco,4563.0,1
+Sant'Oreste,1259.0,0
+Santarem,1860.0,4
+Santarém,2635.0,2
+Sattledt,1921.0,4
+Saône,680.0,0
+Schaarbeek,1957.0,4
+Schaerbeek,1827.5,4
+Schauenburg,643.0,0
+Scherzingen,2132.0,4
+Schleiden,1232.0,0
+Schoten,1310.0,0
+Schwanewede,1189.0,0
+Scicli,2135.0,4
+Seefeld in Tirol,2029.0,4
+Seengen,2845.0,2
+Seneffe,1308.0,0
+Sens,689.0,0
+Sesimbra,4103.0,1
+Setúbal,2220.0,2
+Siat,1309.0,0
+Siglistorf,1585.0,4
+Silves,1138.0,0
+Simmerath,1318.5,0
+Sint-Jans-Molenbeek,1411.0,4
+Sintra,4625.0,1
+Sinzheim,632.0,0
+Sommerkahl,1116.0,0
+Sommerloch,1153.0,0
+Sovicille,2476.0,2
+Soyhières,948.0,0
+Spa,1544.0,4
+Speicher,1108.0,0
+Speicherschwendi,1079.0,0
+Sprimont,1065.0,0
+St. Gallen,1510.3333333333333,4
+Stanz bei Landeck,2976.0,2
+Stegersbach,1120.5,0
+Steinakirchen am Forst,1163.0,0
+Steyr,1438.5,4
+Steyr-Land,1348.0,0
+Stäfa,2655.0,2
+Subingen,1722.5,4
+Switzerland,1619.0,4
+Syracuse,2709.0,2
+Séville,2353.0,2
+Talmassons,3325.0,1
+Tavira,2365.0,2
+Tervuren,2906.0,2
+Thaon-les-Vosges,1447.0,4
+Theux,915.0,0
+Thon,1480.0,4
+Toulouse,1326.0,0
+Traun,2430.0,2
+Trevélez,1500.0,4
+Trippstadt,1172.0,0
+Troisdorf,1914.0,4
+Turin,1340.0,0
+Twist,1390.0,4
+Uccle,2767.0,2
+Uitikon,2703.0,2
+Uster,1915.0,4
+Uttwil,1685.0,4
+Uzwil,1589.0,4
+Val-d'Illiez,1046.0,0
+Val-de-Travers,1906.0,4
+Valsolda,2821.0,2
+València,2635.0,2
+Varese,1714.0,4
+Vaux-sur-Sûre,807.0,0
+Vaz/Obervaz,1870.0,4
+Venise,1804.0,4
+Viana do Castelo,3042.0,2
+Vienne,1440.8947368421052,4
+Viersen,905.0,0
+Vigevano,1736.0,4
+Vila Nova de Gaia,2904.0,2
+Villa A Sesta,2609.0,2
+Villach,1708.0,4
+Vouvray,1750.0,4
+Wald-Michelbach,758.0,0
+Walhain,1133.0,0
+Wals,1149.0,0
+Wanze,2325.0,2
+Waremme,1167.0,0
+Watermaal-Bosvoorde,2058.0,4
+Watermael-Boitsfort,2323.0,2
+Wavre,1248.0,0
+Weilerbach,1224.0,0
+Wels,1535.0,4
+Wermsdorf - Calbitz,1139.0,0
+Werneuchen,1758.0,4
+Westerlo,1984.0,4
+Weyhausen,775.0,0
+Wezembeek-Oppem,1497.0,4
+Wiener Neudorf,1904.0,4
+Wiler (Lötschen),1328.0,0
+Winterberg,860.0,0
+Wohlen bei Bern,1723.0,4
+Wolfegg,1023.0,0
+Wolfertswil,1249.0,0
+Wolfhagen,753.0,0
+Wundschuh,1196.0,0
+Yutz,907.0,0
+Zehethof,856.0,0
+Zirkitzen,1628.0,4
+Zürich,2704.0,2
+car/caravane - Carrazeda de Ansiães,338.0,0
+car/caravane - Francfort-sur-l'Oder,429.5,0
+Érezée,1841.0,4

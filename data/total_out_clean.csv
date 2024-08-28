@@ -1,0 +1,754 @@
+,price,old_price,Type,pays,region,voyageurs,rooms,bed,bathroom,period_start,period_end,new_rating
+0,2920.0,6084.0,cottage,Espagne,Madrid,9,3,8,2,2024-07-31,2024-08-31,4.97
+1,1500.0,1705.0,hébergement,Espagne,Trevélez,2,1,1,1,2024-07-31,2024-08-31,4.89
+2,1968.0,3280.0,loft,Espagne,Madrid,2,1,1,1,2024-07-31,2024-08-31,4.81
+3,2353.0,2870.0,loft,Espagne,Séville,4,2,3,1,2024-07-31,2024-08-31,4.96
+4,2129.0,2505.0,appartement,Espagne,Madrid,2,1,1,1,2024-07-31,2024-08-31,4.83
+5,1395.0,2325.0,appartement en résidence,Espagne,Albuñol,2,1,2,1,2024-07-31,2024-08-31,4.67
+6,1736.0,2170.0,hébergement,Espagne,Lanjarón,5,2,4,2,2024-07-31,2024-08-31,4.87
+8,2047.0,2274.0,loft,Espagne,Madrid,4,2,2,1,2024-07-31,2024-08-31,4.86
+9,2635.0,7750.0,appartement,Espagne,València,3,1,1,1,2024-07-31,2024-08-31,4.72
+14,3341.0,3930.0,appartement,Espagne,Malaga,3,1,1,1,2024-07-31,2024-08-31,4.86
+15,1802.0,2815.0,loft,Espagne,Madrid,2,1,1,1,2024-07-31,2024-08-31,4.85
+21,1380.0,2759.0,appartement,Espagne,Madrid,2,1,1,2,2024-07-31,2024-08-31,4.9
+22,2082.0,2449.0,appartement,Espagne,Madrid,2,1,1,2,2024-07-31,2024-08-31,4.87
+23,2954.0,4544.0,appartement en résidence,Espagne,Benalmádena,3,1,2,1,2024-07-31,2024-08-31,4.83
+24,2768.0,3690.0,appartement,Espagne,Madrid,2,1,1,1,2024-07-31,2024-08-31,4.86
+29,1473.0,2894.0,appartement,Espagne,Madrid,2,1,1,1,2024-07-31,2024-08-31,4.21
+31,1730.0,2883.0,loft,Espagne,Madrid,2,1,1,1,2024-07-31,2024-08-31,4.83
+33,2015.0,2289.0,appartement,Espagne,Madrid,3,1,3,1,2024-07-31,2024-08-31,4.91
+34,2161.0,2542.0,loft,Espagne,Madrid,2,1,1,2,2024-07-31,2024-08-31,4.92
+35,3472.0,4340.0,appartement en résidence,Espagne,Nerja,2,1,1,1,2024-07-31,2024-08-31,4.92
+36,2463.0,2737.0,appartement,Espagne,Madrid,2,1,1,1,2024-07-31,2024-08-31,4.92
+37,2015.0,2289.0,appartement,Espagne,Madrid,3,1,3,1,2024-07-31,2024-08-31,4.93
+39,2177.0,3110.0,appartement,Espagne,Madrid,2,1,1,1,2024-07-31,2024-08-31,4.91
+40,2232.0,3720.0,appartement,Espagne,Madrid,4,1,2,2,2024-07-31,2024-08-31,4.97
+41,1649.0,2998.0,appartement,Espagne,Grenade,4,2,3,1,2024-07-31,2024-08-31,4.91
+42,2444.0,2716.0,appartement,Espagne,Madrid,4,1,2,1,2024-07-31,2024-08-31,5.0
+43,1910.0,2728.0,suite,Espagne,Benalmádena,1,1,1,1,2024-07-31,2024-08-31,4.83
+44,1612.0,2015.0,appartement,Espagne,Madrid,2,1,1,1,2024-07-31,2024-08-31,4.68
+45,2015.0,4030.0,appartement,Espagne,Madrid,2,1,1,1,2024-07-31,2024-08-31,5.0
+46,2480.0,3100.0,appartement,Espagne,Madrid,4,1,2,1,2024-07-31,2024-08-31,4.9
+47,1431.0,2751.0,Tiny house,Espagne,Madrid,2,1,2,1,2024-07-31,2024-08-31,4.85
+50,2232.0,2790.0,appartement,Espagne,Madrid,2,1,1,1,2024-07-31,2024-08-31,4.14
+51,1815.0,2630.0,appartement,Espagne,Madrid,2,1,1,1,2024-07-31,2024-08-31,5.0
+52,2251.0,3751.0,appartement,Espagne,Madrid,3,1,2,1,2024-07-31,2024-08-31,4.96
+55,2907.0,3230.0,loft,Espagne,Barcelone,2,1,1,1,2024-07-31,2024-08-31,4.91
+57,2711.0,4170.0,appartement,Espagne,Madrid,4,2,2,2,2024-07-31,2024-08-31,4.85
+61,2044.0,2271.0,loft,Espagne,Madrid,4,2,2,1,2024-07-31,2024-08-31,4.89
+62,1240.0,1550.0,hébergement,Espagne,Gualchos,4,3,3,1,2024-07-31,2024-08-31,4.73
+63,1643.0,2785.0,appartement,Espagne,Algeciras,3,2,2,2,2024-07-31,2024-08-31,5.0
+65,1224.0,2040.0,loft,Espagne,Grenade,2,1,1,1,2024-07-31,2024-08-31,4.84
+67,2065.0,2294.0,appartement en résidence,Espagne,Calldetenes,4,2,3,1,2024-07-31,2024-08-31,4.88
+68,2112.0,2575.0,appartement,Espagne,Madrid,2,1,1,1,2024-07-31,2024-08-31,4.88
+70,2232.0,2790.0,appartement,Espagne,Madrid,2,1,1,1,2024-07-31,2024-08-31,4.5
+71,1684.0,2054.0,appartement,Espagne,Madrid,2,1,1,1,2024-07-31,2024-08-31,4.88
+72,2730.0,4550.0,hébergement,Espagne,O Barco,2,1,1,1,2024-07-31,2024-08-31,4.85
+73,2616.0,3270.0,appartement,Espagne,Madrid,2,1,2,1,2024-07-31,2024-08-31,4.74
+74,3145.0,7670.0,appartement,Espagne,Madrid,2,1,1,1,2024-07-31,2024-08-31,5.0
+75,1991.0,2342.0,appartement,Espagne,Madrid,4,1,2,1,2024-07-31,2024-08-31,4.89
+76,2651.0,2945.0,appartement,Espagne,Madrid,4,1,1,1,2024-07-31,2024-08-31,5.0
+77,1958.0,2175.0,appartement,Espagne,Madrid,2,1,1,1,2024-07-31,2024-08-31,4.83
+79,1725.0,3195.0,appartement,Espagne,Madrid,2,1,1,1,2024-07-31,2024-08-31,4.87
+80,3021.0,4082.0,appartement en résidence,Espagne,Estepona,2,1,1,2,2024-07-31,2024-08-31,5.0
+81,1931.0,2782.0,appartement,Espagne,Madrid,4,1,2,1,2024-07-31,2024-08-31,4.62
+82,2209.0,2945.0,appartement,Espagne,Madrid,2,1,2,1,2024-07-31,2024-08-31,4.85
+83,1166.0,1457.0,Tiny house,Espagne,Azuqueca de Henares,2,1,1,1,2024-07-31,2024-08-31,4.75
+85,3456.0,4320.0,appartement,Espagne,Madrid,6,3,4,1,2024-07-31,2024-08-31,4.71
+86,2328.0,2839.0,appartement en résidence,Espagne,Madrid,2,1,2,1,2024-07-31,2024-08-31,5.0
+87,2283.0,3044.0,appartement,Espagne,Madrid,4,1,2,1,2024-07-31,2024-08-31,5.0
+88,2103.0,2337.0,appartement,Espagne,Madrid,3,1,2,1,2024-07-31,2024-08-31,5.0
+89,1459.0,1824.0,appartement,Espagne,Bormujos,3,1,3,1,2024-07-31,2024-08-31,4.53
+90,3333.0,6665.0,appartement,Espagne,Palma de Majorque,2,1,2,1,2024-07-31,2024-08-31,4.93
+91,1562.0,3470.0,appartement,Espagne,Madrid,4,1,3,1,2024-07-31,2024-08-31,4.8
+95,1968.0,3280.0,appartement en résidence,Espagne,Madrid,6,2,4,2,2024-07-31,2024-08-31,4.8
+98,1184.0,2367.0,appartement,Espagne,Plasencia,2,1,1,1,2024-07-31,2024-08-31,4.82
+100,1149.0,2945.0,appartement,Espagne,Dílar,4,1,2,1,2024-07-31,2024-08-31,4.66
+107,1587.0,3173.0,hébergement,Espagne,Grenade,2,1,1,1,2024-07-31,2024-08-31,4.71
+109,1130.0,1949.0,appartement,Espagne,León,2,1,1,1,2024-07-31,2024-08-31,4.75
+110,1135.0,1860.0,résidence de tourisme,Espagne,Grenade,2,1,2,1,2024-07-31,2024-08-31,4.77
+111,1519.0,1899.0,appartement,Espagne,Madrid,3,1,1,1,2024-07-31,2024-08-31,4.33
+114,774.0,2150.0,loft,Belgique,Aywaille,2,1,1,2,2024-07-31,2024-08-31,4.59
+115,918.0,2415.0,appartement,Belgique,Liège,2,1,1,1,2024-07-31,2024-08-31,4.94
+118,1091.0,3410.0,hébergement,Belgique,Cerfontaine,4,2,3,1,2024-07-31,2024-08-31,5.0
+121,1370.0,4030.0,appartement,Belgique,Esneux,2,1,1,1,2024-07-31,2024-08-31,5.0
+122,1596.0,2280.0,appartement,Belgique,Etterbeek,2,1,1,1,2024-07-31,2024-08-31,4.81
+123,1204.0,1720.0,appartement,Belgique,Grez-Doiceau,2,1,1,1,2024-07-31,2024-08-31,4.77
+124,1285.0,2570.0,appartement en résidence,Belgique,Anvers,2,1,1,1,2024-07-31,2024-08-31,4.93
+126,1550.0,3100.0,hébergement,Belgique,Graven,4,2,2,1,2024-07-31,2024-08-31,4.92
+129,1133.0,2060.0,appartement,Belgique,Walhain,2,1,2,1,2024-07-31,2024-08-31,5.0
+132,817.0,1151.0,appartement,Belgique,Anvers,2,1,1,1,2024-07-31,2024-08-31,4.6
+133,977.0,1395.0,appartement,Belgique,Maaseik,1,1,1,1,2024-07-31,2024-08-31,5.0
+134,698.0,1550.0,chambre d'hôtes,Belgique,La Hulpe,1,1,1,1,2024-07-31,2024-08-31,5.0
+135,701.0,1130.0,hébergement,Belgique,Liège,3,1,2,1,2024-07-31,2024-08-31,4.73
+136,977.0,2790.0,maison d'hôtes,Belgique,Gand,2,1,1,1,2024-07-31,2024-08-31,4.5
+139,1215.0,1519.0,appartement,Belgique,Asse,2,1,1,2,2024-07-31,2024-08-31,4.71
+140,1085.0,2170.0,appartement,Belgique,Marche-en-Famenne,2,1,1,1,2024-07-31,2024-08-31,4.68
+141,1100.0,1467.0,appartement,Belgique,Incourt,2,1,1,1,2024-07-31,2024-08-31,4.8
+142,1274.0,1795.0,appartement,Belgique,Braives,2,1,1,1,2024-07-31,2024-08-31,4.94
+143,1150.0,1438.0,appartement,Belgique,Wavre,1,1,1,1,2024-07-31,2024-08-31,4.88
+145,856.0,1556.0,appartement,Belgique,Aiseau-Presles,3,1,1,1,2024-07-31,2024-08-31,4.73
+146,907.0,1395.0,suite,Belgique,Liège,2,2,1,1,2024-07-31,2024-08-31,4.59
+147,1325.0,2945.0,appartement en résidence,Belgique,Etterbeek,2,1,1,1,2024-07-31,2024-08-31,5.0
+151,1387.0,2201.0,appartement,Belgique,Berlaar,3,2,2,1,2024-07-31,2024-08-31,5.0
+158,1242.0,2070.0,appartement,Belgique,Liège,2,1,2,1,2024-07-31,2024-08-31,4.88
+161,1228.0,1364.0,appartement en résidence,Belgique,Liège,1,1,1,1,2024-07-31,2024-08-31,4.8
+162,1411.0,2015.0,appartement,Belgique,Sint-Jans-Molenbeek,3,1,3,1,2024-07-31,2024-08-31,4.52
+163,825.0,1178.0,appartement,Belgique,Liège,2,1,1,1,2024-07-31,2024-08-31,4.5
+165,1569.0,1910.0,appartement,Belgique,Merelbeke,2,1,1,2,2024-07-31,2024-08-31,4.91
+167,977.0,1396.0,appartement,Belgique,Liège,2,1,1,1,2024-07-31,2024-08-31,4.73
+168,987.0,1795.0,appartement,Belgique,Namur,2,1,3,1,2024-07-31,2024-08-31,4.23
+169,1438.0,1917.0,appartement,Belgique,Etterbeek,2,1,1,1,2024-07-31,2024-08-31,4.67
+170,1310.0,2015.0,appartement,Belgique,Schoten,2,1,2,2,2024-07-31,2024-08-31,4.77
+171,1415.0,1880.0,appartement,Belgique,Schaerbeek,2,1,2,1,2024-07-31,2024-08-31,4.44
+172,977.0,1302.0,appartement,Belgique,La Louvière,2,1,1,1,2024-07-31,2024-08-31,4.55
+175,1308.0,1869.0,suite,Belgique,Seneffe,2,1,1,1,2024-07-31,2024-08-31,5.0
+178,1502.0,2945.0,appartement,Belgique,Anvers,2,1,1,2,2024-07-31,2024-08-31,4.94
+182,2356.0,2945.0,appartement,Belgique,Jette,3,1,2,1,2024-07-31,2024-08-31,5.0
+183,1818.0,2139.0,appartement,Belgique,Gand,2,1,1,1,2024-07-31,2024-08-31,5.0
+185,1645.0,3575.0,appartement,Belgique,Kraainem,2,1,1,1,2024-07-31,2024-08-31,4.92
+188,1116.0,1488.0,appartement,Belgique,La Louvière,1,1,1,1,2024-07-31,2024-08-31,4.9
+189,1986.0,2759.0,appartement,Belgique,Anvers,2,1,1,2,2024-07-31,2024-08-31,4.89
+190,1375.0,2697.0,appartement,Belgique,Incourt,2,1,1,1,2024-07-31,2024-08-31,5.0
+193,1559.0,3465.0,hébergement,Belgique,Hooglede,4,2,3,2,2024-07-31,2024-08-31,4.82
+195,699.0,1069.0,hébergement,Belgique,Comines-Warneton,6,1,1,1,2024-07-31,2024-08-31,5.0
+196,2083.0,3255.0,hébergement,Belgique,Faimes,4,2,2,1,2024-07-31,2024-08-31,5.0
+197,807.0,1613.0,appartement,Belgique,Vaux-sur-Sûre,2,1,3,1,2024-07-31,2024-08-31,4.79
+201,1167.0,1795.0,maison de ville,Belgique,Waremme,2,1,1,1,2024-07-31,2024-08-31,4.8
+202,1235.0,2205.0,appartement,Belgique,Anvers,2,1,1,1,2024-07-31,2024-08-31,4.6
+203,2643.0,5182.0,villa,Belgique,Olne,6,2,4,2,2024-07-31,2024-08-31,4.92
+204,1390.0,2139.0,maison d'hôtes,Belgique,Bruxelles,2,1,1,1,2024-07-31,2024-08-31,4.94
+205,1279.0,1705.0,maison d'hôtes,Belgique,Lasne,1,1,1,1,2024-07-31,2024-08-31,4.82
+206,2325.0,3875.0,maison d'hôtes,Belgique,Wanze,6,3,4,2,2024-07-31,2024-08-31,4.87
+207,2172.0,3103.0,appartement,Belgique,Anvers,4,2,3,2,2024-07-31,2024-08-31,4.59
+209,1961.0,3565.0,appartement,Belgique,Louvain,2,1,1,1,2024-07-31,2024-08-31,5.0
+210,915.0,1829.0,loft,Belgique,Theux,2,1,1,1,2024-07-31,2024-08-31,4.86
+211,2323.0,3416.0,appartement,Belgique,Watermael-Boitsfort,2,1,1,1,2024-07-31,2024-08-31,5.0
+212,1147.0,2294.0,appartement,Belgique,Liège,4,1,2,1,2024-07-31,2024-08-31,4.88
+214,1008.0,2015.0,appartement,Belgique,Aywaille,2,1,1,1,2024-07-31,2024-08-31,4.87
+220,1302.0,1860.0,hébergement,Belgique,Lasne,3,1,1,1,2024-07-31,2024-08-31,4.86
+221,868.0,1240.0,appartement,Belgique,Courcelles,1,1,1,1,2024-07-31,2024-08-31,4.8
+223,2240.0,2635.0,appartement,Belgique,Schaerbeek,2,1,1,1,2024-07-31,2024-08-31,4.98
+224,1614.0,2604.0,appartement,Belgique,Profondeville,4,1,2,1,2024-07-31,2024-08-31,4.97
+230,1304.0,1976.0,appartement,Belgique,Liège,2,1,1,1,2024-07-31,2024-08-31,4.58
+233,1343.0,2066.0,appartement,Belgique,Mons,2,1,1,1,2024-07-31,2024-08-31,4.88
+234,1841.0,3410.0,hébergement,Belgique,Érezée,2,1,1,1,2024-07-31,2024-08-31,4.93
+235,1194.0,1705.0,appartement,Belgique,Mons,2,1,2,2,2024-07-31,2024-08-31,4.77
+236,1898.0,2711.0,maison de ville,Belgique,Mechelen,4,2,3,1,2024-07-31,2024-08-31,4.85
+239,1860.0,2415.0,appartement,Belgique,Etterbeek,2,1,1,2,2024-07-31,2024-08-31,5.0
+240,1814.0,2015.0,loft,Belgique,Gand,2,1,1,1,2024-07-31,2024-08-31,4.64
+242,1984.0,2480.0,Logement entier,Belgique,Westerlo,6,4,6,2,2024-07-31,2024-08-31,4.91
+243,1618.0,2697.0,appartement,Belgique,Auderghem,2,1,1,1,2024-07-31,2024-08-31,5.0
+244,1592.0,2449.0,appartement,Belgique,Saint-Ghislain,2,1,1,1,2024-07-31,2024-08-31,5.0
+245,1302.0,3720.0,Bateau,Belgique,Gand,2,1,1,1,2024-07-31,2024-08-31,4.64
+247,1535.0,2325.0,appartement,Belgique,Elsene,4,1,1,1,2024-07-31,2024-08-31,4.79
+248,1730.0,3146.0,appartement en résidence,Belgique,Anvers,2,1,1,1,2024-07-31,2024-08-31,4.87
+250,1661.0,3390.0,appartement,Belgique,Anvers,4,1,2,1,2024-07-31,2024-08-31,4.58
+252,1065.0,1937.0,maison d'hôtes,Belgique,Sprimont,2,1,1,1,2024-07-31,2024-08-31,4.88
+253,880.0,1600.0,appartement,Belgique,Durbuy,4,1,1,1,2024-07-31,2024-08-31,4.55
+254,1295.0,1992.0,maison de ville,Belgique,Wavre,4,1,2,1,2024-07-31,2024-08-31,4.74
+256,992.0,1984.0,appartement,Belgique,Liège,2,1,1,1,2024-07-31,2024-08-31,4.72
+257,4030.0,6200.0,appartement en résidence,Belgique,Auderghem,4,2,2,2,2024-07-31,2024-08-31,4.97
+258,1299.0,1999.0,appartement en résidence,Belgique,Wavre,4,1,2,1,2024-07-31,2024-08-31,4.76
+261,1395.0,2325.0,hébergement,Belgique,Herve,4,1,1,1,2024-07-31,2024-08-31,4.95
+262,2431.0,3985.0,appartement en résidence,Belgique,Anvers,2,1,1,2,2024-07-31,2024-08-31,5.0
+264,1411.0,2170.0,appartement,Belgique,Ixelles,2,1,1,1,2024-07-31,2024-08-31,4.8
+268,1845.0,2635.0,hébergement,Belgique,Momignies,2,1,1,1,2024-07-31,2024-08-31,4.91
+271,2893.0,5260.0,appartement,Belgique,Oostende,2,1,1,1,2024-07-31,2024-08-31,5.0
+272,1438.0,1798.0,appartement en résidence,Belgique,Anvers,2,1,1,1,2024-07-31,2024-08-31,4.73
+274,1618.0,2697.0,appartement en résidence,Belgique,Aartselaar,2,1,1,2,2024-07-31,2024-08-31,4.77
+275,1544.0,2573.0,appartement,Belgique,Spa,4,1,1,1,2024-07-31,2024-08-31,4.91
+276,2956.0,5375.0,maison d'hôtes,Belgique,Lasne,2,1,1,2,2024-07-31,2024-08-31,4.95
+277,2001.0,2858.0,appartement,Belgique,Ixelles,4,1,2,1,2024-07-31,2024-08-31,5.0
+279,1497.0,2170.0,suite,Belgique,Wezembeek-Oppem,2,1,1,1,2024-07-31,2024-08-31,4.9
+280,2058.0,2480.0,appartement en résidence,Belgique,Watermaal-Bosvoorde,4,1,1,2,2024-07-31,2024-08-31,4.84
+281,1581.0,2635.0,bungalow,Belgique,Hastière,3,1,2,1,2024-07-31,2024-08-31,4.88
+282,1438.0,1798.0,appartement,Belgique,Ans,2,1,1,2,2024-07-31,2024-08-31,4.63
+283,1581.0,2635.0,bungalow,Belgique,Hastière,3,1,2,1,2024-07-31,2024-08-31,4.88
+284,1957.0,2796.0,appartement,Belgique,Schaarbeek,2,1,1,1,2024-07-31,2024-08-31,4.95
+285,1438.0,1798.0,appartement,Belgique,Ans,2,1,1,2,2024-07-31,2024-08-31,4.63
+286,1730.0,2582.0,appartement en résidence,Belgique,Anvers,2,1,1,1,2024-07-31,2024-08-31,4.94
+287,2185.0,2571.0,appartement,Belgique,Dinant,3,1,2,1,2024-07-31,2024-08-31,4.93
+288,2906.0,3875.0,hébergement,Belgique,Tervuren,4,4,4,4,2024-07-31,2024-08-31,5.0
+291,2767.0,4339.0,appartement,Belgique,Uccle,4,2,3,1,2024-07-31,2024-08-31,5.0
+293,1364.0,1705.0,appartement,Belgique,Montigny-le-Tilleul,2,1,1,2,2024-07-31,2024-08-31,5.0
+294,2260.0,2659.0,appartement,Belgique,Dinant,4,1,2,1,2024-07-31,2024-08-31,4.93
+295,2821.0,4030.0,hébergement,Italie,Valsolda,4,1,2,1,2024-07-31,2024-08-31,4.83
+296,4563.0,5565.0,hébergement,Italie,Sant'Antioco,5,2,3,1,2024-07-31,2024-08-31,4.83
+300,2569.0,3670.0,maison de ville,Italie,Modica,4,1,2,1,2024-07-31,2024-08-31,4.78
+301,2363.0,2625.0,maison de ville,Italie,Parrana San Martino,3,1,3,1,2024-07-31,2024-08-31,4.72
+302,2696.0,4570.0,villa,Italie,Cava D'aliga,2,1,1,1,2024-07-31,2024-08-31,4.8
+303,1310.0,2015.0,hébergement,Italie,Bagno a Ripoli,2,1,1,1,2024-07-31,2024-08-31,4.78
+304,2678.0,3150.0,hébergement,Italie,Marciaso,7,3,6,1,2024-07-31,2024-08-31,4.84
+305,3869.0,4960.0,cottage,Italie,Blevio,2,1,1,1,2024-07-31,2024-08-31,4.68
+306,6200.0,7634.0,villa,Italie,Mascali,10,5,7,4,2024-07-31,2024-08-31,4.91
+307,1953.0,3550.0,appartement,Italie,Naples,3,1,2,1,2024-07-31,2024-08-31,5.0
+308,4356.0,4840.0,logement de vacances,Italie,Quartu Sant'Elena,4,1,4,1,2024-07-31,2024-08-31,4.74
+309,2976.0,3720.0,appartement,Italie,Florence,4,2,3,1,2024-07-31,2024-08-31,4.84
+310,2476.0,3095.0,suite,Italie,Sovicille,2,1,1,1,2024-07-31,2024-08-31,4.63
+311,1736.0,2170.0,cottage,Italie,Vigevano,2,1,1,1,2024-07-31,2024-08-31,4.91
+312,2332.0,3480.0,appartement,Italie,Rome,4,1,2,1,2024-07-31,2024-08-31,4.71
+314,2885.0,3206.0,appartement,Italie,Piegaro,5,1,2,1,2024-07-31,2024-08-31,4.63
+315,3048.0,3810.0,appartement,Italie,Cavi-casalone,2,1,1,1,2024-07-31,2024-08-31,4.74
+316,1968.0,3280.0,appartement,Italie,Rome,3,1,2,2,2024-07-31,2024-08-31,4.88
+317,4480.0,5270.0,appartement,Italie,Barberino Tavarnelle,2,1,1,1,2024-07-31,2024-08-31,4.97
+318,1488.0,1860.0,appartement,Italie,Rome,2,1,1,1,2024-07-31,2024-08-31,4.85
+320,3722.0,4652.0,hébergement,Italie,Contignano,3,2,2,2,2024-07-31,2024-08-31,4.61
+321,1767.0,2945.0,appartement,Italie,Rome,2,1,1,1,2024-07-31,2024-08-31,4.89
+322,2511.0,2790.0,appartement en résidence,Italie,Milan,2,1,1,1,2024-07-31,2024-08-31,5.0
+323,1894.0,2705.0,appartement,Italie,Pietra Ligure,2,1,1,1,2024-07-31,2024-08-31,4.76
+325,5805.0,6450.0,cottage,Italie,Francavilla Fontana,2,1,1,2,2024-07-31,2024-08-31,4.9
+326,2646.0,2940.0,hébergement,Italie,Cortona (AR),2,1,1,1,2024-07-31,2024-08-31,4.92
+327,2609.0,3069.0,appartement,Italie,Villa A Sesta,6,2,2,2,2024-07-31,2024-08-31,4.9
+329,2217.0,3410.0,appartement en résidence,Italie,Milan,2,1,1,1,2024-07-31,2024-08-31,4.87
+330,3259.0,4655.0,appartement,Italie,Venise,3,1,2,1,2024-07-31,2024-08-31,4.81
+331,2359.0,3745.0,appartement,Italie,Milan,3,1,2,1,2024-07-31,2024-08-31,4.93
+333,1953.0,2790.0,logement de vacances,Italie,Rome,2,1,1,1,2024-07-31,2024-08-31,4.63
+334,349.0,491.0,Place de camping,Italie,Venise,8,3,2,2,2024-07-31,2024-08-31,4.27
+335,4216.0,4960.0,villa,Italie,San Prospero,11,4,6,2,2024-07-31,2024-08-31,4.97
+337,1725.0,3255.0,appartement,Italie,Milan,4,1,1,1,2024-07-31,2024-08-31,4.63
+339,2517.0,4340.0,hébergement,Italie,Pianillo,3,1,1,1,2024-07-31,2024-08-31,4.97
+340,2790.0,4650.0,appartement en résidence,Italie,Florence,4,1,2,1,2024-07-31,2024-08-31,4.88
+341,2635.0,3100.0,Trullo,Italie,Cisternino,3,1,2,1,2024-07-31,2024-08-31,4.98
+343,1975.0,2469.0,appartement,Italie,Rome,2,1,1,1,2024-07-31,2024-08-31,4.92
+344,2588.0,3450.0,appartement en résidence,Italie,Rome,2,1,1,1,2024-07-31,2024-08-31,5.0
+346,1894.0,2705.0,appartement,Italie,Pietra Ligure,2,1,1,1,2024-07-31,2024-08-31,4.04
+347,2240.0,2635.0,appartement,Italie,Albori,3,1,1,1,2024-07-31,2024-08-31,4.95
+349,2730.0,4060.0,appartement en résidence,Italie,Florence,4,1,1,1,2024-07-31,2024-08-31,4.88
+350,1814.0,2790.0,appartement,Italie,Milan,3,1,2,1,2024-07-31,2024-08-31,5.0
+351,2099.0,3499.0,appartement,Italie,Rome,2,1,1,1,2024-07-31,2024-08-31,4.9
+352,2046.0,3410.0,appartement,Italie,Milan,3,1,3,1,2024-07-31,2024-08-31,4.94
+353,3024.0,3780.0,cottage,Italie,Castelnuovo Berardenga,2,1,2,1,2024-07-31,2024-08-31,4.77
+355,1054.0,1550.0,hébergement,Italie,Ciggiano,2,1,1,1,2024-07-31,2024-08-31,4.8
+356,3325.0,6650.0,hébergement,Italie,Talmassons,5,3,4,2,2024-07-31,2024-08-31,4.81
+358,1693.0,4030.0,appartement,Italie,Turin,3,1,2,1,2024-07-31,2024-08-31,4.93
+360,2170.0,3100.0,appartement,Italie,Rome,4,2,3,2,2024-07-31,2024-08-31,4.84
+361,474.0,930.0,appartement,Italie,Ponzana,5,3,5,1,2024-07-31,2024-08-31,4.8
+362,1364.0,2480.0,hébergement,Italie,Dozza,3,1,2,2,2024-07-31,2024-08-31,5.0
+364,3608.0,5820.0,appartement,Italie,Aci Castello,4,1,2,1,2024-07-31,2024-08-31,4.75
+365,2709.0,3010.0,hébergement,Italie,Syracuse,4,1,2,1,2024-07-31,2024-08-31,4.88
+366,1716.0,1907.0,appartement en résidence,Italie,Rome,2,1,2,1,2024-07-31,2024-08-31,4.82
+367,1717.0,3465.0,logement de vacances,Italie,Orciatico,2,1,1,1,2024-07-31,2024-08-31,4.33
+369,2078.0,2770.0,appartement,Italie,Bari,5,1,2,1,2024-07-31,2024-08-31,4.94
+370,893.0,1395.0,suite,Italie,Piumazzo,1,1,1,1,2024-07-31,2024-08-31,4.82
+372,1303.0,2005.0,loft,Italie,Catane,2,1,1,1,2024-07-31,2024-08-31,4.6
+374,3888.0,4320.0,appartement,Italie,Forio,2,1,1,1,2024-07-31,2024-08-31,5.0
+375,1584.0,2400.0,Tiny house,Italie,Figline Valdarno,3,1,2,1,2024-07-31,2024-08-31,4.88
+376,1259.0,2170.0,logement de vacances,Italie,Sant'Oreste,2,1,2,1,2024-07-31,2024-08-31,5.0
+377,3038.0,4340.0,appartement,Italie,Mantova,7,3,5,2,2024-07-31,2024-08-31,4.76
+378,1289.0,1940.0,hébergement,Italie,Fosdinovo,3,1,1,1,2024-07-31,2024-08-31,4.57
+381,1296.0,2160.0,appartement en résidence,Italie,Pieve Vergonte,3,1,2,1,2024-07-31,2024-08-31,5.0
+382,1116.0,1860.0,hébergement,Italie,Mercato Saraceno,2,1,1,1,2024-07-31,2024-08-31,5.0
+386,1949.0,2165.0,appartement en résidence,Italie,Bari,3,1,3,1,2024-07-31,2024-08-31,5.0
+389,1320.0,1885.0,appartement,Italie,Arezzo,2,1,2,1,2024-07-31,2024-08-31,4.72
+391,1119.0,1865.0,suite,Italie,Caltrano,2,1,1,1,2024-07-31,2024-08-31,4.94
+393,1451.0,2790.0,loft,Italie,Milan,2,1,1,1,2024-07-31,2024-08-31,5.0
+395,3100.0,6200.0,appartement,Italie,Florence,2,1,1,1,2024-07-31,2024-08-31,5.0
+398,1233.0,1451.0,hébergement,Italie,Gerano,3,1,2,1,2024-07-31,2024-08-31,4.92
+399,1256.0,1395.0,hébergement,Italie,Ampognano,2,1,1,1,2024-07-31,2024-08-31,4.66
+400,987.0,1097.0,appartement,Italie,Turin,4,1,2,1,2024-07-31,2024-08-31,4.58
+402,1924.0,2263.0,appartement,Italie,Passo del Tonale,2,1,3,1,2024-07-31,2024-08-31,4.72
+403,797.0,2415.0,Gîte à la ferme,Italie,Alba,2,1,1,1,2024-07-31,2024-08-31,4.88
+406,1860.0,6200.0,logement de vacances,Italie,Rome,3,1,2,1,2024-07-31,2024-08-31,4.64
+407,1612.0,2480.0,appartement en résidence,Italie,Florence,5,2,4,1,2024-07-31,2024-08-31,4.53
+408,780.0,1054.0,maison de ville,Italie,Guanzate,1,1,1,1,2024-07-31,2024-08-31,4.94
+409,1025.0,1798.0,appartement,Italie,Rai,2,1,2,1,2024-07-31,2024-08-31,5.0
+410,1377.0,1530.0,villa,Italie,Cesate,4,2,2,1,2024-07-31,2024-08-31,4.93
+411,1714.0,2348.0,appartement en résidence,Italie,Varese,4,1,3,1,2024-07-31,2024-08-31,4.45
+412,1519.0,2170.0,appartement,Italie,Milan,4,1,3,1,2024-07-31,2024-08-31,5.0
+413,2148.0,3069.0,appartement,Italie,Rome,2,1,3,1,2024-07-31,2024-08-31,5.0
+414,2135.0,3050.0,hébergement,Italie,Scicli,4,1,2,2,2024-07-31,2024-08-31,5.0
+415,2170.0,4340.0,appartement,Italie,Montemassi,2,1,1,1,2024-07-31,2024-08-31,5.0
+416,1200.0,1395.0,hébergement,Italie,Monterotondo,4,1,2,1,2024-07-31,2024-08-31,4.77
+417,1536.0,2021.0,appartement en résidence,Italie,Milan,3,1,2,1,2024-07-31,2024-08-31,4.8
+418,1913.0,2421.0,appartement,Italie,Milan,4,1,2,1,2024-07-31,2024-08-31,4.74
+419,777.0,1412.0,appartement en résidence,Italie,Carmagnola,4,2,3,1,2024-07-31,2024-08-31,4.8
+420,1608.0,2725.0,appartement,Italie,Milan,3,1,2,1,2024-07-31,2024-08-31,4.5
+423,2480.0,3100.0,appartement,Italie,Lucques,4,2,2,1,2024-07-31,2024-08-31,4.5
+424,2522.0,3152.0,appartement,Italie,Bologne,4,1,1,2,2024-07-31,2024-08-31,4.8
+425,4986.0,6080.0,villa,France,Marais-Vernier,3,1,2,1,2024-07-31,2024-08-31,4.94
+426,2727.0,3896.0,suite,France,Bommes,2,1,1,1,2024-07-31,2024-08-31,4.77
+428,3086.0,3429.0,chalet,France,Châtillon-sur-Cluses,6,2,2,1,2024-07-31,2024-08-31,4.5
+429,2313.0,2891.0,appartement,France,Paris,3,2,2,1,2024-07-31,2024-08-31,4.8
+430,1946.0,2165.0,appartement,France,Dieppe,4,1,2,1,2024-07-31,2024-08-31,4.67
+431,2480.0,3100.0,appartement,France,Paris,4,1,2,1,2024-07-31,2024-08-31,4.6
+432,2480.0,4960.0,cottage,France,Lautenbach-Zell,4,1,2,1,2024-07-31,2024-08-31,4.99
+435,1959.0,2449.0,appartement,France,Luc-sur-Mer,3,1,2,1,2024-07-31,2024-08-31,4.31
+436,1974.0,2322.0,hébergement,France,Fay,2,1,1,2,2024-07-31,2024-08-31,4.8
+441,1303.0,2005.0,appartement,France,Les Bordes,2,1,1,1,2024-07-31,2024-08-31,4.91
+442,1036.0,1459.0,appartement,France,Nancy,2,1,1,1,2024-07-31,2024-08-31,4.65
+444,3825.0,5100.0,appartement,France,Saint-Raphaël,4,1,2,1,2024-07-31,2024-08-31,4.87
+445,1072.0,1786.0,Logement entier,France,La Chapelle-Villars,2,1,1,1,2024-07-31,2024-08-31,5.0
+447,1265.0,1860.0,appartement,France,Saint-Étienne-de-Tinée,4,2,3,1,2024-07-31,2024-08-31,4.72
+448,1855.0,2854.0,hébergement,France,Entraigues-sur-la-Sorgue,6,3,3,1,2024-07-31,2024-08-31,4.79
+449,1242.0,1380.0,appartement,France,Moutiers,2,1,2,1,2024-07-31,2024-08-31,4.92
+451,680.0,1359.0,appartement en résidence,France,Saône,2,1,1,1,2024-07-31,2024-08-31,4.84
+452,1242.0,1380.0,appartement,France,Moutiers,2,1,2,1,2024-07-31,2024-08-31,4.92
+454,680.0,1359.0,appartement en résidence,France,Saône,2,1,1,1,2024-07-31,2024-08-31,4.84
+456,846.0,1209.0,appartement,France,Les Menuires,4,1,2,1,2024-07-31,2024-08-31,4.57
+457,1770.0,2360.0,hébergement,France,Moutiers-Sous-Chantemerle,6,2,4,2,2024-07-31,2024-08-31,4.86
+458,2362.0,3281.0,Chambre dans appart'hôtel,France,Prévessin-Moëns,2,1,1,1,2024-07-31,2024-08-31,4.59
+459,2320.0,4573.0,appartement,France,Saint-Zacharie,2,1,2,1,2024-07-31,2024-08-31,4.91
+461,2137.0,3561.0,appartement en résidence,France,Brides-les-Bains,9,2,6,2,2024-07-31,2024-08-31,4.7
+462,2342.0,2755.0,maison de ville,France,Pornic,4,1,2,1,2024-07-31,2024-08-31,4.61
+464,1804.0,2775.0,appartement,France,Orelle,4,1,1,1,2024-07-31,2024-08-31,4.59
+466,1976.0,2635.0,appartement en résidence,France,Aix-les-Bains,4,1,4,1,2024-07-31,2024-08-31,4.58
+467,1488.0,1860.0,hébergement,France,Rognaix,4,2,2,1,2024-07-31,2024-08-31,4.73
+468,1310.0,2015.0,appartement,France,Albertville,3,1,2,1,2024-07-31,2024-08-31,4.97
+469,1318.0,1550.0,appartement,France,Annemasse,2,1,1,1,2024-07-31,2024-08-31,4.67
+470,737.0,983.0,appartement,France,Grenoble,2,1,1,1,2024-07-31,2024-08-31,4.59
+471,1488.0,2480.0,logement de vacances,France,Saint-Jeoire,6,2,4,1,2024-07-31,2024-08-31,4.71
+475,1263.0,1804.0,appartement,France,Combloux,4,1,3,1,2024-07-31,2024-08-31,4.81
+476,1212.0,1684.0,hébergement,France,Cherbourg-Octeville,4,2,2,1,2024-07-31,2024-08-31,4.59
+477,689.0,1378.0,appartement,France,Sens,2,1,1,1,2024-07-31,2024-08-31,4.83
+478,962.0,1630.0,appartement en résidence,France,Montvalezan,4,1,3,1,2024-07-31,2024-08-31,4.86
+479,1116.0,1860.0,logement de vacances,France,Frolois,4,1,2,1,2024-07-31,2024-08-31,4.93
+481,1042.0,1302.0,appartement,France,Sainte-Radegonde,2,1,1,1,2024-07-31,2024-08-31,4.9
+482,1209.0,1612.0,appartement,France,Grenoble,2,1,1,1,2024-07-31,2024-08-31,4.89
+484,843.0,992.0,appartement,France,Idron,2,1,1,1,2024-07-31,2024-08-31,4.43
+485,651.0,2170.0,appartement,France,Puy-Saint-Vincent,4,1,3,1,2024-07-31,2024-08-31,4.69
+487,1116.0,1860.0,logement de vacances,France,Frolois,4,1,2,1,2024-07-31,2024-08-31,4.93
+489,2441.0,3755.0,appartement,France,Sallanches,6,2,4,1,2024-07-31,2024-08-31,4.81
+490,1209.0,1612.0,appartement,France,Grenoble,2,1,1,1,2024-07-31,2024-08-31,4.89
+493,1515.0,1782.0,Tiny house,France,Ottmarsheim,4,1,2,1,2024-07-31,2024-08-31,4.38
+494,1867.0,4148.0,appartement,France,Goudargues,4,1,2,1,2024-07-31,2024-08-31,5.0
+495,558.0,1395.0,maison d'hôtes,France,Pierres,1,1,1,1,2024-07-31,2024-08-31,5.0
+496,1867.0,4148.0,appartement,France,Goudargues,4,1,2,1,2024-07-31,2024-08-31,5.0
+499,1008.0,1550.0,maison d'hôtes,France,Kirschnaumen,2,1,2,1,2024-07-31,2024-08-31,4.88
+500,1121.0,1601.0,appartement,France,Saint-Jean-de-Maurienne,2,1,2,1,2024-07-31,2024-08-31,4.93
+501,1424.0,1737.0,appartement,France,Toulouse,2,1,1,1,2024-07-31,2024-08-31,4.0
+502,1750.0,3500.0,hébergement,France,Vouvray,2,1,1,1,2024-07-31,2024-08-31,4.97
+503,1845.0,2460.0,appartement,France,Charly-sur-Marne,4,2,2,1,2024-07-31,2024-08-31,5.0
+507,1264.0,1573.0,appartement,France,Nîmes,2,1,1,1,2024-07-31,2024-08-31,4.69
+511,1483.0,2232.0,appartement,France,Manosque,3,1,2,1,2024-07-31,2024-08-31,4.8
+513,2659.0,3297.0,maison de ville,France,Romorantin-Lanthenay,4,1,2,1,2024-07-31,2024-08-31,4.95
+518,1189.0,1321.0,appartement en résidence,France,Le Mans,2,1,1,1,2024-07-31,2024-08-31,4.85
+519,1916.0,2536.0,appartement,France,Albertville,2,1,1,1,2024-07-31,2024-08-31,4.97
+520,1228.0,1535.0,appartement,France,Toulouse,3,1,2,1,2024-07-31,2024-08-31,4.84
+521,1488.0,1860.0,appartement,France,Saint-Ciers-sur-Gironde,2,1,1,1,2024-07-31,2024-08-31,5.0
+525,2092.0,2615.0,appartement,France,Dunkerque,2,1,1,1,2024-07-31,2024-08-31,4.87
+527,1209.0,2015.0,appartement en résidence,Autriche,Langenstein,2,1,1,1,2024-07-31,2024-08-31,4.88
+528,1465.0,2325.0,appartement,Autriche,Vienne,2,1,1,1,2024-07-31,2024-08-31,4.92
+531,1116.0,1240.0,appartement,Autriche,Vienne,4,1,1,1,2024-07-31,2024-08-31,4.83
+534,992.0,1240.0,bungalow,Autriche,Anthofrotte,3,1,2,1,2024-07-31,2024-08-31,4.86
+535,1332.0,2960.0,appartement,Autriche,Vienne,5,1,3,1,2024-07-31,2024-08-31,4.74
+536,856.0,2139.0,hébergement,Autriche,Zehethof,4,1,4,2,2024-07-31,2024-08-31,5.0
+537,1283.0,2139.0,appartement,Autriche,Klosterneuburg,2,1,2,1,2024-07-31,2024-08-31,4.83
+539,951.0,1559.0,Château,Autriche,Bad Zell,6,1,4,1,2024-07-31,2024-08-31,4.81
+540,1077.0,1267.0,appartement en résidence,Autriche,Sankt Valentin,3,1,2,1,2024-07-31,2024-08-31,4.92
+541,1280.0,1829.0,appartement,Autriche,Linz,2,1,1,1,2024-07-31,2024-08-31,4.75
+543,1293.0,2585.0,appartement en résidence,Autriche,Vienne,2,1,1,1,2024-07-31,2024-08-31,4.74
+544,791.0,930.0,appartement,Autriche,Mauerkirchen,2,1,2,1,2024-07-31,2024-08-31,4.76
+545,744.0,930.0,appartement en résidence,Autriche,A-9360 Friesach,5,3,5,2,2024-07-31,2024-08-31,4.69
+546,1480.0,2114.0,hébergement,Autriche,Thon,5,3,3,1,2024-07-31,2024-08-31,4.77
+547,713.0,951.0,appartement,Autriche,Gleisdorf,3,1,2,1,2024-07-31,2024-08-31,4.67
+548,1091.0,1705.0,hébergement,Autriche,Jaukenberg,3,1,1,1,2024-07-31,2024-08-31,4.98
+549,1348.0,1568.0,hébergement,Autriche,Steyr-Land,6,3,3,1,2024-07-31,2024-08-31,4.57
+550,2082.0,3785.0,appartement,Autriche,Gmunden,2,1,1,2,2024-07-31,2024-08-31,5.0
+552,1330.0,1705.0,appartement en résidence,Autriche,Steyr,2,1,1,1,2024-07-31,2024-08-31,5.0
+553,1173.0,1676.0,appartement en résidence,Autriche,Linz,2,1,1,1,2024-07-31,2024-08-31,4.57
+555,1500.0,1705.0,appartement,Autriche,Plesching,3,1,2,1,2024-07-31,2024-08-31,5.0
+556,989.0,1319.0,Tiny house,Autriche,Rauchwart im Burgenland,5,2,4,1,2024-07-31,2024-08-31,5.0
+558,2356.0,5890.0,appartement,Autriche,Berg bei Rohrbach,4,2,4,1,2024-07-31,2024-08-31,5.0
+562,1215.0,1620.0,hébergement,Autriche,Hautzendorf,4,2,2,1,2024-07-31,2024-08-31,4.71
+563,1535.0,1705.0,appartement,Autriche,Wels,6,2,3,2,2024-07-31,2024-08-31,5.0
+564,1860.0,3720.0,hébergement,Autriche,Puchen,4,1,2,1,2024-07-31,2024-08-31,4.91
+565,1149.0,1277.0,appartement,Autriche,Wals,1,1,1,1,2024-07-31,2024-08-31,4.93
+567,1607.0,1891.0,appartement,Autriche,Baden bei Wien,3,1,1,1,2024-07-31,2024-08-31,4.8
+568,861.0,1076.0,appartement,Autriche,Vienne,2,1,2,1,2024-07-31,2024-08-31,4.73
+570,546.0,1705.0,appartement,Autriche,Mönichkirchen,1,1,1,1,2024-07-31,2024-08-31,4.83
+572,1030.0,1493.0,appartement,Autriche,Bad Vöslau,2,1,1,1,2024-07-31,2024-08-31,4.76
+573,1465.0,2482.0,appartement,Autriche,Klagenfurt am Wörthersee,3,1,2,1,2024-07-31,2024-08-31,4.71
+574,1480.0,2114.0,hébergement,Autriche,Thon,5,3,3,1,2024-07-31,2024-08-31,4.77
+577,1357.0,1696.0,appartement,Autriche,Vienne,2,1,1,1,2024-07-31,2024-08-31,4.52
+578,614.0,682.0,appartement,Autriche,Klettendorf,4,2,2,2,2024-07-31,2024-08-31,5.0
+580,1397.0,2635.0,appartement,Autriche,Graz,2,1,1,2,2024-07-31,2024-08-31,4.97
+581,1017.0,1240.0,appartement,Autriche,Ahorn,4,3,4,1,2024-07-31,2024-08-31,5.0
+582,1228.0,1754.0,appartement,Autriche,Graz,2,1,1,1,2024-07-31,2024-08-31,4.96
+584,1482.0,2030.0,appartement,Autriche,Steyr,3,1,1,1,2024-07-31,2024-08-31,5.0
+585,1921.0,3370.0,appartement en résidence,Autriche,Sattledt,2,1,2,1,2024-07-31,2024-08-31,5.0
+586,1476.0,2635.0,maison d'hôtes,Autriche,Feldbach,3,1,2,1,2024-07-31,2024-08-31,5.0
+587,1302.0,1860.0,appartement,Autriche,Linz,2,1,1,2,2024-07-31,2024-08-31,4.83
+588,1291.0,1519.0,hébergement,Autriche,Aich,6,2,4,2,2024-07-31,2024-08-31,4.91
+590,1240.0,1550.0,appartement,Autriche,Lingenau,2,1,1,2,2024-07-31,2024-08-31,4.94
+595,819.0,1365.0,maison d'hôtes,Autriche,Krems an der Donau,2,1,1,1,2024-07-31,2024-08-31,4.76
+597,3608.0,6014.0,appartement en résidence,Autriche,Kaisigen,4,2,4,1,2024-07-31,2024-08-31,5.0
+599,1410.0,2350.0,appartement,Autriche,Alpbach,4,1,3,1,2024-07-31,2024-08-31,4.9
+600,1471.0,2015.0,logement de vacances,Autriche,Steyr,4,1,2,2,2024-07-31,2024-08-31,4.89
+601,1471.0,2015.0,logement de vacances,Autriche,Steyr,4,1,2,2,2024-07-31,2024-08-31,4.89
+602,1321.0,1887.0,appartement,Autriche,Kapellen,5,2,3,2,2024-07-31,2024-08-31,4.9
+603,1240.0,1392.0,appartement,Autriche,Finkenberg,7,4,4,2,2024-07-31,2024-08-31,4.8
+605,1612.0,4030.0,appartement,Autriche,Bad Mitterndorf,4,1,2,1,2024-07-31,2024-08-31,4.83
+606,1176.0,1705.0,appartement,Autriche,Ansfelden,2,1,1,2,2024-07-31,2024-08-31,4.89
+608,1328.0,1771.0,appartement,Autriche,Graz,4,1,2,1,2024-07-31,2024-08-31,5.0
+609,1625.0,2166.0,appartement,Autriche,Vienne,3,1,2,1,2024-07-31,2024-08-31,5.0
+610,1860.0,2325.0,hébergement,Autriche,Köflach,7,3,5,2,2024-07-31,2024-08-31,5.0
+611,1585.0,2882.0,cottage,Autriche,Eichberg bei Hartmannsdorf,7,4,5,1,2024-07-31,2024-08-31,4.81
+614,1495.0,2179.0,appartement,Autriche,Vienne,4,1,2,1,2024-07-31,2024-08-31,5.0
+615,1814.0,2790.0,appartement,Autriche,Linz,4,1,2,1,2024-07-31,2024-08-31,4.88
+616,1395.0,1550.0,appartement,Autriche,Linz,2,1,2,1,2024-07-31,2024-08-31,4.86
+618,1023.0,1364.0,appartement,Autriche,Graz,2,1,2,1,2024-07-31,2024-08-31,4.95
+619,1361.0,2475.0,appartement,Autriche,Vienne,2,1,1,1,2024-07-31,2024-08-31,4.85
+620,2029.0,2536.0,appartement,Autriche,Seefeld in Tirol,2,1,1,1,2024-07-31,2024-08-31,4.94
+622,1269.0,1426.0,appartement,Autriche,Vienne,3,1,1,1,2024-07-31,2024-08-31,4.72
+624,1562.0,2480.0,appartement,Autriche,Vienne,2,1,1,2,2024-07-31,2024-08-31,4.85
+626,1860.0,3720.0,appartement,Autriche,Pörtschach am Wörthersee,5,1,1,1,2024-07-31,2024-08-31,4.7
+627,1023.0,1705.0,appartement,Autriche,Rieding,4,1,2,1,2024-07-31,2024-08-31,4.56
+628,1602.0,4340.0,appartement,Autriche,Baden,3,2,2,2,2024-07-31,2024-08-31,4.8
+630,2158.0,2877.0,appartement en résidence,Autriche,Oberkrimml,2,1,1,1,2024-07-31,2024-08-31,4.96
+631,1708.0,1898.0,maison d'hôtes,Autriche,Villach,2,1,1,1,2024-07-31,2024-08-31,4.88
+632,1194.0,2170.0,appartement,Autriche,Vienne,2,1,1,1,2024-07-31,2024-08-31,4.74
+634,961.0,1602.0,appartement,Autriche,Penking,2,1,3,2,2024-07-31,2024-08-31,4.67
+635,1808.0,3348.0,appartement,Autriche,Vienne,2,1,2,1,2024-07-31,2024-08-31,4.89
+636,2207.0,2759.0,appartement,Autriche,Linz,4,1,2,1,2024-07-31,2024-08-31,5.0
+638,1860.0,2325.0,appartement,Autriche,Vienne,3,1,3,2,2024-07-31,2024-08-31,5.0
+639,1530.0,3060.0,appartement,Autriche,Vienne,4,2,2,1,2024-07-31,2024-08-31,4.75
+640,1628.0,2325.0,appartement,Autriche,Zirkitzen,5,2,4,2,2024-07-31,2024-08-31,4.83
+641,1196.0,2392.0,Logement entier,Autriche,Wundschuh,2,1,2,2,2024-07-31,2024-08-31,4.83
+643,911.0,1302.0,hébergement,Autriche,Dietersdorf,4,2,2,1,2024-07-31,2024-08-31,5.0
+644,2228.0,7428.0,appartement,Autriche,Krems an der Donau,4,1,2,1,2024-07-31,2024-08-31,4.69
+645,773.0,2759.0,résidence de tourisme,Autriche,Graz,1,1,1,1,2024-07-31,2024-08-31,4.4
+646,1188.0,1320.0,appartement,Autriche,Stegersbach,4,1,1,1,2024-07-31,2024-08-31,4.8
+647,1023.0,1550.0,résidence de tourisme,Autriche,Lieboch,2,1,1,1,2024-07-31,2024-08-31,4.8
+653,1700.0,1889.0,appartement en résidence,Autriche,Leonding,2,1,2,1,2024-07-31,2024-08-31,4.9
+655,1256.0,1395.0,appartement,Autriche,Vienne,4,1,2,1,2024-07-31,2024-08-31,5.0
+656,1628.0,2170.0,appartement en résidence,Autriche,Graz,4,1,2,1,2024-07-31,2024-08-31,4.92
+657,2062.0,2945.0,appartement,Autriche,Imst,4,1,2,1,2024-07-31,2024-08-31,4.96
+658,1512.0,2520.0,appartement,Autriche,Vienne,4,1,1,1,2024-07-31,2024-08-31,4.74
+660,1691.0,1879.0,appartement en résidence,Autriche,Oberzeiring,2,1,1,1,2024-07-31,2024-08-31,5.0
+662,1814.0,2790.0,appartement,Autriche,Kaprun,2,1,1,1,2024-07-31,2024-08-31,4.82
+663,2430.0,3038.0,appartement,Autriche,Traun,2,1,1,2,2024-07-31,2024-08-31,5.0
+664,1053.0,2449.0,appartement en résidence,Autriche,Stegersbach,4,1,1,2,2024-07-31,2024-08-31,4.9
+665,2418.0,4030.0,hébergement,Autriche,Neunkirchen,4,1,2,1,2024-07-31,2024-08-31,4.78
+667,2976.0,3720.0,appartement,Autriche,Stanz bei Landeck,2,1,1,1,2024-07-31,2024-08-31,5.0
+668,1540.0,1878.0,appartement,Autriche,Klagenfurt am Wörthersee,5,1,5,1,2024-07-31,2024-08-31,4.67
+669,629.0,786.0,suite,Autriche,Sankt Ruprecht an der Raab,3,1,1,2,2024-07-31,2024-08-31,4.79
+670,629.0,786.0,suite,Autriche,Sankt Ruprecht an der Raab,3,1,1,2,2024-07-31,2024-08-31,4.79
+671,1575.0,1969.0,résidence de tourisme,Autriche,Gamlitz,4,1,2,1,2024-07-31,2024-08-31,4.75
+675,1061.0,1829.0,appartement,Autriche,Graz,2,1,1,1,2024-07-31,2024-08-31,4.86
+676,2926.0,3658.0,résidence de tourisme,Autriche,Innsbruck-Land,2,1,2,2,2024-07-31,2024-08-31,4.95
+677,2116.0,3255.0,résidence de tourisme,Autriche,Vienne,4,1,2,1,2024-07-31,2024-08-31,5.0
+678,1365.0,1706.0,loft,Autriche,Vienne,2,1,1,1,2024-07-31,2024-08-31,4.69
+679,1163.0,1550.0,maison d'hôtes,Autriche,Steinakirchen am Forst,2,1,2,1,2024-07-31,2024-08-31,4.81
+680,1904.0,2116.0,appartement,Autriche,Wiener Neudorf,3,2,3,2,2024-07-31,2024-08-31,5.0
+681,1079.0,2118.0,appartement,Suisse,Speicherschwendi,2,1,1,1,2024-07-31,2024-08-31,4.82
+682,948.0,1897.0,appartement en résidence,Suisse,Soyhières,2,1,2,1,2024-07-31,2024-08-31,4.93
+683,1155.0,1833.0,appartement,Suisse,Bühler,2,1,1,1,2024-07-31,2024-08-31,5.0
+684,1249.0,1561.0,appartement,Suisse,Wolfertswil,4,2,3,1,2024-07-31,2024-08-31,4.95
+688,1235.0,2059.0,appartement,Suisse,Filzbach,2,1,1,1,2024-07-31,2024-08-31,5.0
+692,2561.0,5690.0,cabane,Suisse,Oberiberg,2,1,1,1,2024-07-31,2024-08-31,5.0
+697,2655.0,3161.0,appartement en résidence,Suisse,Stäfa,2,1,2,2,2024-07-31,2024-08-31,4.8
+699,1492.0,1865.0,appartement,Suisse,Menziken,2,1,1,1,2024-07-31,2024-08-31,4.9
+700,1183.0,2365.0,appartement,Suisse,Davos Platz,2,1,2,1,2024-07-31,2024-08-31,4.81
+702,1046.0,2276.0,appartement,Suisse,Val-d'Illiez,2,1,4,2,2024-07-31,2024-08-31,4.67
+703,1571.0,2181.0,appartement,Suisse,Bremgarten,2,1,1,2,2024-07-31,2024-08-31,4.94
+706,1486.0,2286.0,appartement,Suisse,Cressier,2,1,1,1,2024-07-31,2024-08-31,4.87
+707,1077.0,1267.0,appartement,Suisse,Biel,2,1,1,1,2024-07-31,2024-08-31,4.9
+709,1112.0,2224.0,appartement en résidence,Suisse,Glarus Süd,2,1,1,1,2024-07-31,2024-08-31,4.62
+713,995.0,1422.0,appartement,Suisse,Gryon,6,2,4,1,2024-07-31,2024-08-31,4.73
+714,1429.0,2857.0,appartement,Suisse,Lugano,2,1,1,1,2024-07-31,2024-08-31,4.58
+715,1344.0,2687.0,chalet,Suisse,Grengiols,2,1,1,1,2024-07-31,2024-08-31,4.5
+716,1880.0,3132.0,appartement,Suisse,Flims,2,1,2,1,2024-07-31,2024-08-31,4.97
+718,1171.0,3003.0,appartement,Suisse,Crémines,2,1,1,1,2024-07-31,2024-08-31,4.57
+720,1780.0,2225.0,appartement,Suisse,Mosen,2,1,1,1,2024-07-31,2024-08-31,4.95
+721,1712.0,2595.0,appartement,Suisse,Herdern,2,1,1,1,2024-07-31,2024-08-31,4.93
+723,1248.0,2838.0,appartement,Suisse,Gruyères,2,1,1,1,2024-07-31,2024-08-31,4.56
+726,1658.0,2271.0,appartement,Suisse,Rheinfelden,3,1,1,1,2024-07-31,2024-08-31,4.83
+729,1915.0,3192.0,loft,Suisse,Uster,2,1,1,1,2024-07-31,2024-08-31,4.73
+730,1666.0,2687.0,appartement,Suisse,Laax,3,1,2,1,2024-07-31,2024-08-31,4.76
+731,1292.0,1846.0,appartement,Suisse,Maggia,2,1,1,1,2024-07-31,2024-08-31,4.73
+732,853.0,1422.0,Tiny house,Suisse,Intragna,3,1,1,2,2024-07-31,2024-08-31,4.71
+734,1189.0,2971.0,appartement,Suisse,Laax,3,1,2,1,2024-07-31,2024-08-31,4.61
+736,1541.0,2371.0,appartement,Suisse,Hausen,4,1,2,1,2024-07-31,2024-08-31,4.46
+739,1086.0,2172.0,appartement,Suisse,Cormondrèche,2,1,1,1,2024-07-31,2024-08-31,4.5
+745,2134.0,2845.0,appartement,Suisse,Renens,2,1,2,1,2024-07-31,2024-08-31,5.0
+746,1340.0,1675.0,appartement,Suisse,Saas im Prättigau,2,1,1,1,2024-07-31,2024-08-31,4.93
+747,1463.0,1828.0,suite,Suisse,Escholzmatt,4,2,2,1,2024-07-31,2024-08-31,4.94
+748,1958.0,3263.0,appartement,Suisse,Ermatingen,4,1,1,1,2024-07-31,2024-08-31,4.93
+749,1366.0,2069.0,appartement,Suisse,Caviano,2,1,1,1,2024-07-31,2024-08-31,4.94
+750,2650.0,4077.0,appartement,Suisse,Berne,2,1,1,1,2024-07-31,2024-08-31,5.0
+752,1309.0,2181.0,appartement,Suisse,Siat,5,2,4,1,2024-07-31,2024-08-31,4.95
+753,2132.0,4181.0,appartement,Suisse,Scherzingen,2,1,1,1,2024-07-31,2024-08-31,4.97
+759,1897.0,4741.0,appartement,Suisse,Courroux,3,2,3,1,2024-07-31,2024-08-31,4.89
+761,1881.0,2687.0,appartement,Suisse,Langenthal,5,3,3,1,2024-07-31,2024-08-31,5.0
+762,1327.0,2212.0,casa particular,Suisse,Estavayer,2,1,2,1,2024-07-31,2024-08-31,4.96
+763,995.0,2212.0,hébergement,Suisse,Subingen,2,1,1,1,2024-07-31,2024-08-31,4.81
+764,1517.0,2529.0,appartement,Suisse,Leytron,2,1,1,1,2024-07-31,2024-08-31,4.76
+766,1304.0,2371.0,appartement,Suisse,St. Gallen,2,1,1,1,2024-07-31,2024-08-31,4.88
+767,1438.0,2055.0,appartement,Suisse,Riedholz,2,1,3,1,2024-07-31,2024-08-31,4.91
+768,1585.0,2782.0,résidence de tourisme,Suisse,Siglistorf,2,1,1,1,2024-07-31,2024-08-31,4.92
+769,1870.0,2878.0,appartement,Suisse,Vaz/Obervaz,2,1,1,1,2024-07-31,2024-08-31,4.93
+770,2655.0,4425.0,maison d'hôtes,Suisse,Oberglatt,2,1,1,1,2024-07-31,2024-08-31,5.0
+771,2144.0,3696.0,appartement en résidence,Suisse,Biel,5,2,3,1,2024-07-31,2024-08-31,4.86
+773,1423.0,2845.0,maison d'hôtes,Suisse,Roche-d'Or,2,1,1,1,2024-07-31,2024-08-31,4.98
+774,2137.0,3885.0,appartement,Suisse,Lutry,2,1,1,1,2024-07-31,2024-08-31,5.0
+775,1806.0,3009.0,appartement,Suisse,Felsberg,4,1,2,1,2024-07-31,2024-08-31,5.0
+776,1438.0,2396.0,appartement,Suisse,Blatten bei Naters,2,1,2,1,2024-07-31,2024-08-31,4.84
+780,2908.0,5816.0,appartement,Suisse,Zürich,2,1,1,1,2024-07-31,2024-08-31,4.94
+781,1619.0,2024.0,appartement,Suisse,Switzerland,2,1,2,1,2024-07-31,2024-08-31,4.81
+783,1078.0,1960.0,appartement,Suisse,Koppigen,4,1,2,1,2024-07-31,2024-08-31,4.17
+784,1969.0,2813.0,suite,Suisse,Fischenthal,4,1,2,1,2024-07-31,2024-08-31,4.92
+787,1619.0,2024.0,appartement,Suisse,Switzerland,2,1,2,1,2024-07-31,2024-08-31,4.81
+789,1078.0,1960.0,appartement,Suisse,Koppigen,4,1,2,1,2024-07-31,2024-08-31,4.17
+790,1969.0,2813.0,suite,Suisse,Fischenthal,4,1,2,1,2024-07-31,2024-08-31,4.92
+793,1906.0,3176.0,appartement,Suisse,Val-de-Travers,2,1,1,1,2024-07-31,2024-08-31,4.94
+794,1685.0,2718.0,maison de ville,Suisse,Uttwil,3,1,2,2,2024-07-31,2024-08-31,4.75
+795,1568.0,2412.0,appartement,Suisse,Sankt Gallen,5,2,2,1,2024-07-31,2024-08-31,4.58
+796,1290.0,2529.0,appartement,Suisse,Morgins,5,2,5,1,2024-07-31,2024-08-31,5.0
+797,2401.0,4899.0,appartement,Suisse,La Sagne,4,1,3,2,2024-07-31,2024-08-31,5.0
+798,1678.0,1865.0,appartement en résidence,Suisse,St. Gallen,3,1,2,1,2024-07-31,2024-08-31,4.79
+799,2182.0,2425.0,appartement,Suisse,Lens,4,1,2,1,2024-07-31,2024-08-31,4.89
+802,2086.0,2782.0,appartement,Suisse,Flaach,4,1,3,1,2024-07-31,2024-08-31,4.85
+803,2309.0,2624.0,appartement,Suisse,Dietwil,4,2,2,1,2024-07-31,2024-08-31,4.97
+806,3319.0,4425.0,cottage,Suisse,Movelier,4,3,3,2,2024-07-31,2024-08-31,4.97
+807,1723.0,1915.0,appartement,Suisse,Wohlen bei Bern,2,1,1,1,2024-07-31,2024-08-31,4.87
+809,2096.0,4109.0,appartement,Suisse,Bussigny,2,1,1,1,2024-07-31,2024-08-31,5.0
+813,1954.0,3006.0,appartement en résidence,Suisse,Churwalden,5,1,5,1,2024-07-31,2024-08-31,4.9
+815,1217.0,1738.0,chambre d'hôtes,Suisse,Billens-Hennens,4,2,4,1,2024-07-31,2024-08-31,5.0
+817,839.0,1422.0,Chambre dans hôtel,Suisse,Montfaucon,1,1,1,1,2024-07-31,2024-08-31,5.0
+819,1217.0,1738.0,chambre d'hôtes,Suisse,Billens-Hennens,4,2,4,1,2024-07-31,2024-08-31,5.0
+820,839.0,1422.0,Chambre dans hôtel,Suisse,Montfaucon,1,1,1,1,2024-07-31,2024-08-31,5.0
+821,2845.0,3793.0,appartement,Suisse,Seengen,4,1,2,1,2024-07-31,2024-08-31,5.0
+824,2567.0,2852.0,appartement,Suisse,Leukerbad,5,1,4,2,2024-07-31,2024-08-31,4.94
+825,2500.0,5816.0,appartement,Suisse,Zürich,2,1,1,1,2024-07-31,2024-08-31,5.0
+826,1533.0,3129.0,appartement,Suisse,Leontica,4,1,2,1,2024-07-31,2024-08-31,4.86
+827,1785.0,2380.0,appartement,Suisse,Marly,2,1,3,1,2024-07-31,2024-08-31,4.94
+829,1747.0,2055.0,appartement,Suisse,Ferenbalm,2,1,1,1,2024-07-31,2024-08-31,5.0
+830,2703.0,3003.0,appartement,Suisse,Uitikon,3,1,2,1,2024-07-31,2024-08-31,4.57
+832,1549.0,2212.0,appartement,Suisse,St. Gallen,2,1,2,1,2024-07-31,2024-08-31,4.75
+835,1580.0,3161.0,appartement,Suisse,Intragna,2,1,1,1,2024-07-31,2024-08-31,4.72
+836,2276.0,3793.0,appartement,Suisse,Ormont-Dessus,5,2,4,1,2024-07-31,2024-08-31,5.0
+837,1438.0,2055.0,appartement,Suisse,Bonfol,4,1,2,1,2024-07-31,2024-08-31,5.0
+838,1770.0,2529.0,appartement,Suisse,Anzère,4,1,2,1,2024-07-31,2024-08-31,4.94
+839,1438.0,2055.0,appartement,Suisse,Bonfol,4,1,2,1,2024-07-31,2024-08-31,5.0
+840,1770.0,2529.0,appartement,Suisse,Anzère,4,1,2,1,2024-07-31,2024-08-31,4.94
+842,2260.0,3477.0,maison d'hôtes,Suisse,Baden,2,1,2,2,2024-07-31,2024-08-31,4.8
+843,1328.0,1897.0,appartement,Suisse,Wiler (Lötschen),3,2,3,1,2024-07-31,2024-08-31,4.68
+846,2643.0,6606.0,appartement,Suisse,Bâle,2,1,2,1,2024-07-31,2024-08-31,4.89
+847,1589.0,2119.0,appartement,Suisse,Uzwil,4,1,1,1,2024-07-31,2024-08-31,4.62
+848,2276.0,2529.0,appartement,Suisse,Davos Platz,2,1,2,1,2024-07-31,2024-08-31,4.94
+849,2450.0,4899.0,appartement,Suisse,Subingen,2,1,1,1,2024-07-31,2024-08-31,4.78
+851,753.0,1395.0,appartement,Allemagne,Wolfhagen,2,1,1,1,2024-07-31,2024-08-31,4.9
+852,878.0,975.0,bungalow,France,La Garde-Adhémar,2,1,2,1,2024-07-31,2024-08-31,4.7
+853,907.0,1209.0,appartement,France,Yutz,2,1,1,1,2024-07-31,2024-08-31,4.71
+854,878.0,975.0,bungalow,France,La Garde-Adhémar,2,1,2,1,2024-07-31,2024-08-31,4.7
+856,2108.0,3635.0,appartement,Suisse,Biel,7,3,4,1,2024-07-31,2024-08-31,4.86
+857,981.0,1629.0,appartement,Allemagne,Chemnitz,2,1,2,1,2024-07-31,2024-08-31,5.0
+858,1447.0,1608.0,appartement,France,Thaon-les-Vosges,2,1,1,1,2024-07-31,2024-08-31,4.89
+859,958.0,1652.0,Tiny house,Portugal,Ramela,4,1,1,1,2024-07-31,2024-08-31,4.86
+861,1390.0,2725.0,Tiny house,Allemagne,Twist,4,1,3,2,2024-07-31,2024-08-31,4.96
+863,1411.0,2170.0,cabane,Allemagne,Hennef (Sieg),3,1,1,1,2024-07-31,2024-08-31,4.75
+864,1535.0,1705.0,appartement,Allemagne,Obernzell,3,1,2,1,2024-07-31,2024-08-31,4.89
+865,1411.0,2015.0,appartement,Allemagne,Sankt Englmar,3,1,2,1,2024-07-31,2024-08-31,4.76
+868,869.0,1260.0,appartement,Allemagne,Hanovre,1,1,1,1,2024-07-31,2024-08-31,4.92
+871,1172.0,1860.0,bungalow,Allemagne,Trippstadt,3,1,2,1,2024-07-31,2024-08-31,4.87
+875,773.0,2148.0,appartement,Allemagne,Nossen,8,1,4,1,2024-07-31,2024-08-31,5.0
+876,997.0,1534.0,appartement,Allemagne,Rastede,6,2,5,1,2024-07-31,2024-08-31,5.0
+878,1054.0,1440.0,appartement,Allemagne,Gieleroth,4,2,3,1,2024-07-31,2024-08-31,4.76
+880,495.0,1054.0,appartement,Allemagne,Falkenstein,2,1,1,1,2024-07-31,2024-08-31,4.9
+882,1108.0,2015.0,suite,Allemagne,Speicher,2,1,1,1,2024-07-31,2024-08-31,4.93
+885,777.0,971.0,appartement,Allemagne,Mehlmeisel,2,1,2,1,2024-07-31,2024-08-31,4.87
+886,1237.0,1546.0,maison d'hôtes,Allemagne,Hellenthal,2,1,1,1,2024-07-31,2024-08-31,4.75
+887,1096.0,1289.0,appartement,Allemagne,Mülheim an der Ruhr,4,1,1,1,2024-07-31,2024-08-31,4.97
+888,1451.0,1814.0,bungalow,Allemagne,Erfurt,3,1,4,1,2024-07-31,2024-08-31,4.76
+889,1775.0,3550.0,cottage,Allemagne,Olsberg,6,4,6,3,2024-07-31,2024-08-31,4.68
+890,1139.0,1519.0,maison d'hôtes,Allemagne,Wermsdorf - Calbitz,2,1,1,1,2024-07-31,2024-08-31,4.98
+891,1451.0,1814.0,bungalow,Allemagne,Erfurt,3,1,4,1,2024-07-31,2024-08-31,4.76
+892,1775.0,3550.0,cottage,Allemagne,Olsberg,6,4,6,3,2024-07-31,2024-08-31,4.68
+893,1139.0,1519.0,maison d'hôtes,Allemagne,Wermsdorf - Calbitz,2,1,1,1,2024-07-31,2024-08-31,4.98
+894,1153.0,1922.0,appartement,Allemagne,Sommerloch,3,1,1,1,2024-07-31,2024-08-31,4.87
+896,980.0,1307.0,appartement,Allemagne,Altlandsberg,2,1,1,1,2024-07-31,2024-08-31,4.91
+897,947.0,1414.0,appartement,Allemagne,Nossen,2,1,2,1,2024-07-31,2024-08-31,4.89
+898,1290.0,1897.0,appartement,Allemagne,Roskow,2,1,1,1,2024-07-31,2024-08-31,4.96
+900,922.0,1085.0,appartement,Allemagne,Korschenbroich,2,1,1,1,2024-07-31,2024-08-31,4.58
+902,1186.0,1395.0,appartement en résidence,Allemagne,Roetgen,2,1,1,1,2024-07-31,2024-08-31,4.9
+904,1189.0,1829.0,appartement,Allemagne,Schwanewede,2,1,1,1,2024-07-31,2024-08-31,4.97
+905,758.0,948.0,suite,Allemagne,Wald-Michelbach,3,2,2,1,2024-07-31,2024-08-31,4.7
+907,1076.0,1196.0,appartement en résidence,Allemagne,Netphen,4,1,2,1,2024-07-31,2024-08-31,4.93
+910,1067.0,1906.0,appartement,Allemagne,Morbach,2,1,2,1,2024-07-31,2024-08-31,4.87
+911,2139.0,4650.0,appartement,Allemagne,Munich,2,1,2,1,2024-07-31,2024-08-31,5.0
+912,1113.0,1484.0,appartement,Allemagne,Balingen,2,1,1,2,2024-07-31,2024-08-31,4.97
+913,1758.0,2511.0,hébergement,Allemagne,Werneuchen,6,1,6,1,2024-07-31,2024-08-31,4.85
+915,1023.0,1860.0,appartement,Allemagne,Wolfegg,2,1,1,1,2024-07-31,2024-08-31,5.0
+917,1535.0,2046.0,appartement,Allemagne,Kirchzarten,2,1,1,1,2024-07-31,2024-08-31,4.83
+918,1302.0,1860.0,maison d'hôtes,Allemagne,Rottweil,3,1,2,1,2024-07-31,2024-08-31,4.98
+919,434.0,579.0,Camping,Allemagne,car/caravane - Francfort-sur-l'Oder,2,1,1,1,2024-07-31,2024-08-31,4.89
+920,1302.0,2170.0,appartement,Allemagne,Bühl,2,1,3,1,2024-07-31,2024-08-31,4.93
+921,632.0,744.0,appartement,Allemagne,Sinzheim,2,1,1,1,2024-07-31,2024-08-31,5.0
+925,1914.0,3480.0,appartement,Allemagne,Troisdorf,3,1,1,1,2024-07-31,2024-08-31,4.97
+927,1259.0,1798.0,appartement,Allemagne,Kempen,3,1,1,1,2024-07-31,2024-08-31,4.9
+928,1064.0,1209.0,appartement,Allemagne,Friedrichskoog,2,1,1,1,2024-07-31,2024-08-31,4.93
+930,1064.0,1209.0,appartement,Allemagne,Friedrichskoog,2,1,2,1,2024-07-31,2024-08-31,4.88
+931,1163.0,1550.0,hébergement,Allemagne,Boppard,2,1,1,1,2024-07-31,2024-08-31,4.91
+932,1273.0,1929.0,appartement,Allemagne,Erfurt,2,1,2,1,2024-07-31,2024-08-31,4.93
+933,1037.0,1595.0,logement de vacances,Allemagne,Kamenz,3,1,1,1,2024-07-31,2024-08-31,4.86
+935,1163.0,1550.0,hébergement,Allemagne,Boppard,2,1,1,1,2024-07-31,2024-08-31,4.91
+936,1273.0,1929.0,appartement,Allemagne,Erfurt,2,1,2,1,2024-07-31,2024-08-31,4.93
+939,1298.0,2163.0,appartement,Allemagne,Simmerath,3,1,2,1,2024-07-31,2024-08-31,4.81
+940,1108.0,2015.0,appartement,Allemagne,Offenburg,2,1,2,2,2024-07-31,2024-08-31,4.92
+941,1131.0,1615.0,appartement,Allemagne,Göttingen,2,1,2,1,2024-07-31,2024-08-31,4.96
+942,984.0,1386.0,Gîte à la ferme,Allemagne,Donzdorf,3,1,2,1,2024-07-31,2024-08-31,5.0
+944,922.0,1085.0,appartement,Allemagne,Bonn,1,1,1,1,2024-07-31,2024-08-31,4.86
+946,1283.0,2139.0,appartement,Allemagne,Krefeld,2,1,1,1,2024-07-31,2024-08-31,5.0
+947,1730.0,1922.0,loft,Allemagne,Gschwend,2,1,1,1,2024-07-31,2024-08-31,4.96
+948,1212.0,1426.0,appartement,Allemagne,Mülheim an der Ruhr,2,1,1,1,2024-07-31,2024-08-31,4.74
+949,1672.0,2883.0,logement de vacances,Allemagne,Essen,4,1,2,1,2024-07-31,2024-08-31,5.0
+952,2728.0,3410.0,hébergement,Allemagne,Burgthann,6,3,3,2,2024-07-31,2024-08-31,4.88
+954,1209.0,2015.0,appartement,Allemagne,Obermichelbach,4,2,2,1,2024-07-31,2024-08-31,5.0
+956,950.0,1532.0,appartement,Allemagne,Himmelpforten,4,1,2,1,2024-07-31,2024-08-31,4.27
+958,1194.0,1705.0,appartement,Allemagne,Münchhausen,2,1,1,1,2024-07-31,2024-08-31,4.99
+959,2163.0,3090.0,appartement,Allemagne,Mannebach,4,1,1,1,2024-07-31,2024-08-31,4.95
+964,1116.0,1860.0,appartement,Allemagne,Neumagen-Dhron,2,1,1,1,2024-07-31,2024-08-31,4.64
+969,902.0,1288.0,appartement,Allemagne,Eisenach,4,1,2,1,2024-07-31,2024-08-31,4.49
+970,1110.0,1707.0,appartement,Allemagne,Lorch,2,1,1,1,2024-07-31,2024-08-31,4.69
+971,1793.0,2759.0,appartement,Allemagne,Essen,2,1,1,1,2024-07-31,2024-08-31,4.76
+972,1387.0,1541.0,appartement,Allemagne,Runkel,4,1,2,1,2024-07-31,2024-08-31,4.94
+973,1232.0,1643.0,appartement en résidence,Allemagne,Schleiden,3,1,2,1,2024-07-31,2024-08-31,4.55
+974,1135.0,2064.0,appartement,Allemagne,Barum,2,1,1,1,2024-07-31,2024-08-31,4.62
+976,790.0,988.0,appartement,Allemagne,Winterberg,5,1,3,1,2024-07-31,2024-08-31,4.48
+977,1664.0,2219.0,appartement en résidence,Allemagne,Ingelheim am Rhein,2,1,1,1,2024-07-31,2024-08-31,5.0
+979,905.0,1240.0,appartement en résidence,Allemagne,Viersen,2,1,1,1,2024-07-31,2024-08-31,4.73
+982,1156.0,1284.0,appartement,Allemagne,Nalbach,3,1,1,1,2024-07-31,2024-08-31,4.96
+983,1077.0,1197.0,appartement,Allemagne,Aix-la-Chapelle,2,1,1,1,2024-07-31,2024-08-31,4.81
+984,744.0,1240.0,appartement,Allemagne,Halberstadt,2,1,1,1,2024-07-31,2024-08-31,4.25
+985,1283.0,2139.0,loft,Allemagne,Joachimsthal,2,1,1,1,2024-07-31,2024-08-31,4.62
+986,1269.0,1953.0,appartement en résidence,Allemagne,Engelskirchen,2,1,3,1,2024-07-31,2024-08-31,4.81
+987,1382.0,1728.0,appartement,Allemagne,Essen,4,1,5,1,2024-07-31,2024-08-31,4.71
+988,1296.0,1620.0,appartement,Allemagne,Oberstenfeld,3,1,1,1,2024-07-31,2024-08-31,4.96
+989,1339.0,2232.0,appartement,Allemagne,Simmerath,2,1,1,1,2024-07-31,2024-08-31,4.83
+990,1116.0,1395.0,maison d'hôtes,Allemagne,Sommerkahl,2,1,1,1,2024-07-31,2024-08-31,4.97
+991,1085.0,1550.0,appartement,Allemagne,Ostbevern,2,1,2,1,2024-07-31,2024-08-31,4.98
+993,1139.0,1519.0,logement de vacances,Allemagne,Deißlingen,2,1,1,1,2024-07-31,2024-08-31,4.93
+995,851.0,2025.0,appartement en résidence,Allemagne,Altenberg,4,1,1,1,2024-07-31,2024-08-31,4.92
+996,1028.0,1285.0,appartement,Allemagne,Grünenbach,4,1,2,1,2024-07-31,2024-08-31,4.97
+999,1095.0,1587.0,appartement,Allemagne,Bonndorf im Schwarzwald,4,1,2,2,2024-07-31,2024-08-31,4.88
+1000,867.0,1238.0,appartement,Allemagne,Essen,2,1,1,1,2024-07-31,2024-08-31,4.36
+1001,2055.0,2418.0,appartement,Allemagne,Aix-la-Chapelle,3,1,2,1,2024-07-31,2024-08-31,4.68
+1002,1256.0,2790.0,résidence de tourisme,Allemagne,Munich,1,1,1,1,2024-07-31,2024-08-31,4.75
+1004,1395.0,1550.0,appartement,Allemagne,Bad Hersfeld,3,1,2,1,2024-07-31,2024-08-31,4.83
+1005,1256.0,2790.0,résidence de tourisme,Allemagne,Munich,1,1,1,1,2024-07-31,2024-08-31,5.0
+1006,1016.0,1517.0,appartement,Allemagne,Kell am See,2,1,2,1,2024-07-31,2024-08-31,4.83
+1007,1256.0,2790.0,résidence de tourisme,Allemagne,Munich,1,1,1,1,2024-07-31,2024-08-31,4.64
+1008,1298.0,1909.0,appartement,Allemagne,Mechernich,3,1,2,1,2024-07-31,2024-08-31,4.92
+1009,987.0,1519.0,appartement,Allemagne,Issum,2,1,2,1,2024-07-31,2024-08-31,4.94
+1010,930.0,1550.0,maison d'hôtes,Allemagne,Güstrow,4,1,1,1,2024-07-31,2024-08-31,4.97
+1012,760.0,1085.0,appartement,Allemagne,Kevelaer,1,1,2,1,2024-07-31,2024-08-31,4.85
+1013,375.0,682.0,appartement,Allemagne,Bad Wildungen,1,1,1,1,2024-07-31,2024-08-31,4.86
+1014,1085.0,1550.0,appartement,Allemagne,Riol,3,2,2,1,2024-07-31,2024-08-31,4.8
+1015,893.0,1860.0,hébergement,Allemagne,Melbeck,4,2,1,1,2024-07-31,2024-08-31,4.74
+1018,911.0,1519.0,appartement,Allemagne,Meiningen,2,1,1,1,2024-07-31,2024-08-31,4.85
+1019,1208.0,1610.0,appartement,Allemagne,Bad Liebenzell,2,1,1,1,2024-07-31,2024-08-31,4.94
+1020,617.0,1209.0,appartement,Allemagne,Bassenheim,1,1,1,1,2024-07-31,2024-08-31,4.67
+1022,425.0,567.0,Camping,Allemagne,car/caravane - Francfort-sur-l'Oder,2,1,2,1,2024-07-31,2024-08-31,4.8
+1023,1482.0,1853.0,appartement,Allemagne,Geldern,2,1,1,1,2024-07-31,2024-08-31,4.85
+1024,760.0,1085.0,appartement,Allemagne,Kevelaer,1,1,2,1,2024-07-31,2024-08-31,4.85
+1025,375.0,682.0,appartement,Allemagne,Bad Wildungen,1,1,1,1,2024-07-31,2024-08-31,4.86
+1026,1085.0,1550.0,appartement,Allemagne,Riol,3,2,2,1,2024-07-31,2024-08-31,4.8
+1027,893.0,1860.0,hébergement,Allemagne,Melbeck,4,2,1,1,2024-07-31,2024-08-31,4.74
+1030,1208.0,1610.0,appartement,Allemagne,Bad Liebenzell,2,1,1,1,2024-07-31,2024-08-31,4.94
+1031,617.0,1209.0,appartement,Allemagne,Bassenheim,1,1,1,1,2024-07-31,2024-08-31,4.67
+1032,977.0,1085.0,appartement,Allemagne,Paderborn,1,1,1,1,2024-07-31,2024-08-31,4.57
+1034,775.0,1550.0,appartement,Allemagne,Weyhausen,2,1,1,1,2024-07-31,2024-08-31,4.91
+1037,862.0,1232.0,appartement,Allemagne,Saarbrücken,2,1,2,1,2024-07-31,2024-08-31,5.0
+1038,720.0,900.0,appartement en résidence,Allemagne,Hauzenberg,3,1,1,1,2024-07-31,2024-08-31,4.71
+1039,1259.0,1798.0,appartement,Allemagne,Kempen,3,1,2,1,2024-07-31,2024-08-31,4.91
+1040,1923.0,2870.0,hébergement,Allemagne,Bad Oldesloe,6,1,5,1,2024-07-31,2024-08-31,5.0
+1042,643.0,857.0,appartement,Allemagne,Schauenburg,2,1,1,1,2024-07-31,2024-08-31,4.79
+1043,998.0,1330.0,appartement,Allemagne,Saarbrücken,2,1,1,1,2024-07-31,2024-08-31,5.0
+1044,1224.0,1440.0,appartement,Allemagne,Weilerbach,2,1,1,1,2024-07-31,2024-08-31,4.83
+1045,930.0,1860.0,appartement,Allemagne,Winterberg,4,1,1,1,2024-07-31,2024-08-31,4.85
+1046,1063.0,1329.0,appartement,Allemagne,Bad Salzdetfurth,4,1,2,1,2024-07-31,2024-08-31,4.92
+1049,1612.0,2015.0,appartement,Allemagne,Osterburken,2,1,1,2,2024-07-31,2024-08-31,5.0
+1053,1364.0,1705.0,appartement,Allemagne,Hundeshagen,2,1,2,1,2024-07-31,2024-08-31,5.0
+1055,1150.0,1643.0,appartement en résidence,Allemagne,Kreuztal,4,1,2,1,2024-07-31,2024-08-31,4.86
+1057,1364.0,1705.0,appartement,Allemagne,Hundeshagen,2,1,2,1,2024-07-31,2024-08-31,5.0
+1059,1150.0,1643.0,appartement en résidence,Allemagne,Kreuztal,4,1,2,1,2024-07-31,2024-08-31,4.86
+1061,1575.0,2350.0,appartement,Allemagne,Heidelberg,2,1,1,1,2024-07-31,2024-08-31,4.57
+1063,1152.0,1536.0,appartement,Allemagne,Freising,1,1,1,1,2024-07-31,2024-08-31,5.0
+1064,1386.0,1800.0,appartement,Allemagne,Aspach,2,1,1,1,2024-07-31,2024-08-31,4.92
+1066,1163.0,2325.0,appartement,Allemagne,Freiburg im Breisgau,1,1,1,1,2024-07-31,2024-08-31,5.0
+1071,1556.0,2883.0,Tiny house,Portugal,Braga,2,1,2,1,2024-07-31,2024-08-31,4.9
+1072,4471.0,5258.0,appartement en résidence,Portugal,Gaula,5,2,3,1,2024-07-31,2024-08-31,4.83
+1073,3665.0,5235.0,appartement,Portugal,Lisboa,3,1,2,1,2024-07-31,2024-08-31,4.88
+1074,4471.0,5258.0,appartement en résidence,Portugal,Gaula,5,2,3,1,2024-07-31,2024-08-31,4.78
+1075,15336.0,19170.0,appartement en résidence,Portugal,Albufeira,5,2,3,2,2024-07-31,2024-08-31,5.0
+1076,2648.0,3627.0,hébergement,Portugal,Estreito da Calheta,3,1,2,1,2024-07-31,2024-08-31,4.95
+1077,2648.0,3627.0,hébergement,Portugal,Estreito da Calheta,3,1,2,1,2024-07-31,2024-08-31,4.95
+1078,4208.0,5258.0,appartement en résidence,Portugal,Gaula,5,2,3,1,2024-07-31,2024-08-31,4.89
+1080,5408.0,8320.0,appartement,Portugal,Peniche,4,1,3,1,2024-07-31,2024-08-31,4.95
+1082,3276.0,3640.0,villa,Portugal,Arcos de Valdevez,6,3,3,1,2024-07-31,2024-08-31,4.96
+1083,3449.0,4599.0,appartement en résidence,Portugal,Lisboa,2,1,2,1,2024-07-31,2024-08-31,4.85
+1084,2095.0,2465.0,Conteneur industriel,Portugal,Vila Nova de Gaia,2,1,1,1,2024-07-31,2024-08-31,4.95
+1085,1395.0,1860.0,Tente,Portugal,Aldeia do Meco,2,1,1,1,2024-07-31,2024-08-31,4.8
+1086,1211.0,1345.0,Gîte à la ferme,Portugal,Alegrete,2,1,2,1,2024-07-31,2024-08-31,4.77
+1087,3478.0,5115.0,appartement en résidence,Portugal,Parede,4,1,2,1,2024-07-31,2024-08-31,4.64
+1088,3618.0,4020.0,cottage,Portugal,Odeceixe,4,1,1,1,2024-07-31,2024-08-31,4.75
+1089,4103.0,5129.0,appartement,Portugal,Sesimbra,6,1,2,1,2024-07-31,2024-08-31,5.0
+1090,960.0,1655.0,Tiny house,Portugal,Ramela,4,1,1,1,2024-07-31,2024-08-31,4.86
+1092,960.0,1655.0,Tiny house,Portugal,Ramela,4,1,1,1,2024-07-31,2024-08-31,4.86
+1094,791.0,930.0,chalet,Portugal,Miranda do Douro,4,1,2,1,2024-07-31,2024-08-31,4.67
+1095,2731.0,3902.0,cottage,Portugal,Porto de Mós,6,3,4,2,2024-07-31,2024-08-31,4.08
+1096,2783.0,3710.0,appartement,Portugal,Lisboa,2,1,1,1,2024-07-31,2024-08-31,4.75
+1097,5406.0,6758.0,appartement,Portugal,Armação de Pêra,4,1,2,1,2024-07-31,2024-08-31,4.86
+1098,1674.0,1860.0,Bateau,Portugal,Lisboa,2,1,1,1,2024-07-31,2024-08-31,4.81
+1099,4323.0,6925.0,appartement en résidence,Portugal,Albufeira,4,2,3,1,2024-07-31,2024-08-31,4.88
+1100,4677.0,7570.0,résidence de tourisme,Portugal,Albufeira,4,1,2,1,2024-07-31,2024-08-31,5.0
+1102,2376.0,2970.0,appartement,Portugal,Lisboa,2,1,1,1,2024-07-31,2024-08-31,4.81
+1103,4577.0,6925.0,appartement en résidence,Portugal,Albufeira,4,2,4,1,2024-07-31,2024-08-31,4.92
+1105,3720.0,4960.0,appartement,Portugal,Lisboa,4,1,2,1,2024-07-31,2024-08-31,4.93
+1108,1832.0,2035.0,hébergement,Portugal,Porto,1,1,1,1,2024-07-31,2024-08-31,4.69
+1109,1325.0,1541.0,hébergement,Portugal,Celorico de Basto,4,1,2,1,2024-07-31,2024-08-31,4.77
+1110,1860.0,3720.0,Hutte,Portugal,Santarem,4,1,1,1,2024-07-31,2024-08-31,4.7
+1114,2365.0,3379.0,suite,Portugal,Tavira,2,1,1,1,2024-07-31,2024-08-31,4.69
+1115,338.0,422.0,Camping,Portugal,car/caravane - Carrazeda de Ansiães,4,2,2,1,2024-07-31,2024-08-31,3.33
+1116,2674.0,3565.0,appartement,Portugal,Lisboa,2,1,1,1,2024-07-31,2024-08-31,4.89
+1118,3720.0,4650.0,appartement,Portugal,Lisboa,2,1,1,1,2024-07-31,2024-08-31,4.78
+1119,4743.0,5270.0,hébergement,Portugal,Arraiolos,4,1,2,1,2024-07-31,2024-08-31,5.0
+1120,1240.0,3100.0,appartement,Portugal,Lisboa,2,1,1,1,2024-07-31,2024-08-31,4.0
+1124,3581.0,5115.0,appartement,Portugal,Lisboa,4,2,4,1,2024-07-31,2024-08-31,5.0
+1125,2257.0,2508.0,appartement,Portugal,Penela,2,1,1,1,2024-07-31,2024-08-31,4.8
+1126,1138.0,1674.0,Tiny house,Portugal,Silves,2,1,1,2,2024-07-31,2024-08-31,4.84
+1127,4022.0,7182.0,appartement,Portugal,Albufeira,3,1,1,1,2024-07-31,2024-08-31,5.0
+1129,3199.0,3999.0,appartement en résidence,Portugal,Lisboa,2,2,2,2,2024-07-31,2024-08-31,4.31
+1130,3023.0,4030.0,appartement,Portugal,Lisboa,3,1,1,1,2024-07-31,2024-08-31,4.9
+1131,2436.0,4060.0,hébergement,Portugal,Lisboa,2,1,1,1,2024-07-31,2024-08-31,4.89
+1132,1344.0,2635.0,logement de vacances,Portugal,Lisboa,4,1,4,1,2024-07-31,2024-08-31,4.8
+1133,2436.0,4060.0,hébergement,Portugal,Lisboa,2,1,1,1,2024-07-31,2024-08-31,4.89
+1134,1344.0,2635.0,logement de vacances,Portugal,Lisboa,4,1,4,1,2024-07-31,2024-08-31,4.8
+1137,3159.0,5265.0,appartement en résidence,Portugal,Lisboa,2,1,1,1,2024-07-31,2024-08-31,5.0
+1138,3085.0,6169.0,appartement,Portugal,Lisboa,4,2,2,1,2024-07-31,2024-08-31,4.93
+1139,3085.0,6169.0,appartement,Portugal,Lisboa,4,2,2,1,2024-07-31,2024-08-31,4.93
+1140,2558.0,5115.0,appartement,Portugal,Lisboa,4,1,4,1,2024-07-31,2024-08-31,5.0
+1141,4625.0,9249.0,appartement en résidence,Portugal,Sintra,2,1,1,2,2024-07-31,2024-08-31,5.0
+1142,5535.0,6150.0,logement de vacances,Portugal,Lagos,4,1,2,1,2024-07-31,2024-08-31,4.86
+1145,3238.0,4625.0,hébergement,Portugal,Parchal,3,1,2,1,2024-07-31,2024-08-31,4.56
+1146,3042.0,3380.0,résidence de tourisme,Portugal,Viana do Castelo,2,1,1,1,2024-07-31,2024-08-31,4.68
+1147,2552.0,3190.0,Tiny house,Portugal,Matosinhos,2,1,1,1,2024-07-31,2024-08-31,4.84
+1148,1801.0,2573.0,maison d'hôtes,Portugal,Sagres,1,1,1,1,2024-07-31,2024-08-31,4.83
+1149,4960.0,6200.0,appartement,Portugal,Estoril,6,3,4,2,2024-07-31,2024-08-31,4.88
+1151,3720.0,4650.0,hébergement,Portugal,Olhão,4,1,2,2,2024-07-31,2024-08-31,4.65
+1153,1758.0,2197.0,Grange,Portugal,Castro Mirim,2,1,1,2,2024-07-31,2024-08-31,4.56
+1154,5408.0,8320.0,appartement,Portugal,Peniche,4,1,3,1,2024-07-31,2024-08-31,5.0
+1156,3618.0,4020.0,appartement,Portugal,Odeceixe,4,1,2,1,2024-07-31,2024-08-31,4.86
+1158,2635.0,5270.0,hébergement,Portugal,Santarém,4,1,2,1,2024-07-31,2024-08-31,4.93
+1159,3943.0,4639.0,appartement,Portugal,Funchal,4,2,2,2,2024-07-31,2024-08-31,4.9
+1161,2604.0,3720.0,appartement,Portugal,Pedrógão Grande,6,3,3,1,2024-07-31,2024-08-31,4.71
+1162,2604.0,3720.0,appartement,Portugal,Lisbonne,2,1,1,1,2024-07-31,2024-08-31,4.49
+1163,3550.0,4551.0,appartement,Portugal,Lisboa,2,1,1,1,2024-07-31,2024-08-31,4.88
+1165,3141.0,3695.0,loft,Portugal,Porto,4,1,1,1,2024-07-31,2024-08-31,4.91
+1166,2604.0,3720.0,appartement,Portugal,Lisbonne,2,1,1,1,2024-07-31,2024-08-31,4.49
+1168,2590.0,3700.0,appartement,Portugal,Porto,3,1,2,1,2024-07-31,2024-08-31,4.94
+1169,2432.0,3040.0,appartement,Portugal,Porto,4,1,1,1,2024-07-31,2024-08-31,4.9
+1170,1618.0,2790.0,auberge de jeunesse,Portugal,Carcavelos,2,1,1,3,2024-07-31,2024-08-31,4.0
+1171,1744.0,2325.0,maison d'hôtes,Portugal,Estoril,1,1,1,1,2024-07-31,2024-08-31,5.0
+1172,2790.0,3100.0,appartement,Portugal,Lisboa,2,1,2,1,2024-07-31,2024-08-31,4.82
+1173,2796.0,3679.0,appartement,Portugal,Estoril,2,1,1,1,2024-07-31,2024-08-31,4.25
+1174,2765.0,3253.0,hébergement,Portugal,Avis,4,1,2,1,2024-07-31,2024-08-31,5.0
+1176,2635.0,3100.0,appartement en résidence,Portugal,Cascais,2,1,1,1,2024-07-31,2024-08-31,4.71
+1177,2976.0,3720.0,hébergement,Portugal,Estoril,3,2,2,1,2024-07-31,2024-08-31,5.0
+1178,3367.0,5520.0,appartement,Portugal,Ericeira,4,2,3,1,2024-07-31,2024-08-31,4.88
+1180,2635.0,3100.0,appartement en résidence,Portugal,Cascais,2,1,1,1,2024-07-31,2024-08-31,4.71
+1181,2976.0,3720.0,hébergement,Portugal,Estoril,3,2,2,1,2024-07-31,2024-08-31,5.0
+1182,3367.0,5520.0,appartement,Portugal,Ericeira,4,2,3,1,2024-07-31,2024-08-31,4.88
+1186,3713.0,7425.0,appartement,Portugal,Vila Nova de Gaia,4,1,2,1,2024-07-31,2024-08-31,4.43
+1187,2220.0,3700.0,appartement,Portugal,Setúbal,4,2,3,1,2024-07-31,2024-08-31,4.5
