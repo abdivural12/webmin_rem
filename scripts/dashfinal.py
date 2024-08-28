@@ -81,7 +81,8 @@ import plotly.graph_objects as go
 import statsmodels.api as sm
 from statsmodels.formula.api import ols
 
-data = pd.read_csv("C:/Users/Abdi/Desktop/webmin_aout24/data/total_out_clean.csv")
+data = pd.read_csv("data/total_out_clean.csv")
+
 
 # Table ANOVA pour le prix
 formula_price = 'price ~ old_price + C(Type) + C(pays) + C(region) + voyageurs + rooms + bed + bathroom'
@@ -276,8 +277,9 @@ col8, col9 = st.columns([1, 1], gap="small")  #  Nous ajustons la tailles de col
 # Carte de Clustering
 with col8:
     st.title('Visualisation des Clusters Géographiques')
-    data_map = pd.read_csv("C:/Users/Abdi/Desktop/webmin_aout24/data/region_coordinates.csv")
-    reductions = pd.read_csv("C:/Users/Abdi/Desktop/webmin_aout24/data/total_out_clean.csv")
+    data_map = pd.read_csv("data/region_coordinates.csv")
+    reductions = pd.read_csv("data/total_out_clean.csv")
+
 
     # Calculer le pourcentage de réduction
     reductions['price_reduction'] = (reductions['old_price'] - reductions['price']) / reductions['old_price'] * 100
