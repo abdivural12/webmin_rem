@@ -1,6 +1,6 @@
 # Dashboard de Webmining
 <p align="center">
-    <img src="dh.weph" alt="airbn" width="180" height="180">
+    <img src="dh.png" alt="airbn" width="180" height="180">
 </p>
 ## Description
 
